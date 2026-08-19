@@ -1,0 +1,20 @@
+{
+  "parent": "D:\\MIRA-Lab\\derived\\ego-layer11-r8-lr5e5-200\\adapter.pt",
+  "base": "D:\\MIRA-Lab\\base\\SmolLM3-3B-Base",
+  "adapt_layer": 11,
+  "projections": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj"
+  ],
+  "rank": 4,
+  "alpha": 8.0,
+  "steps": 180,
+  "lr": 1e-05,
+  "trainable_parameters": 53248,
+  "eval_before": 1.337300630286336,
+  "eval_after": 1.2475210288539529,
+  "elapsed_seconds": 17.84001088142395,
+  "seed": 9127
+}

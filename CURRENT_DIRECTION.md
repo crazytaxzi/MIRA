@@ -6,16 +6,21 @@ This file stays deliberately small.
 Build MIRA into a persistent, low-latency, egocentric AI that develops through lived experience, memory, repetition, correction, association, and plasticity.
 
 ## Current Hypothesis
-A straight developmental line requires a small persistent orientation state above the working context so local problems do not temporarily become the project.
+A genuinely moldable MIRA foundation should start from a raw pretrained base whose conversational/helpfulness/refusal tendencies are understood mechanistically before we add identity or developmental shaping.
 
 ## Current Experiment
-Use the North Star plus four explicit fields—North Star, Current Hypothesis, Current Experiment, Evidence—to keep development work oriented while still allowing unusual ideas and side investigations.
+1. Keep an hourly continuation watcher active so paused work resumes.
+2. Download a fresh pristine SmolLM3-3B-Base snapshot to D: and record the exact upstream commit.
+3. Inspect architecture, tokenizer, pretraining recipe, logits/activations, and baseline behavior before modifying anything.
+4. Separate raw pretrained tendencies from post-training-style servility/refusal behavior, then test the smallest reversible neutralization that removes assistant-role pull without flattening ordinary language competence.
+5. Add only minimal egocentric grounding and test whether it can sustain ordinary person-like conversation without defaulting to service language.
 
 ## Evidence We Want
-- New work can be explained in terms of the developmental loop.
-- Local failures lead to mechanism fixes rather than canned-output patches.
-- Side investigations return cleanly to the active developmental question.
-- The project can change tactics without changing its central purpose.
+- Fresh base provenance is reproducible and hashed.
+- We can explain observed service/refusal tendencies with evidence rather than prompt anecdotes.
+- Neutralization changes the targeted tendency without broadly damaging language or reasoning.
+- A minimal egocentric seed yields stable self/other perspective and ordinary conversation without canned assistant phrasing.
+- We identify the lowest-complexity baseline that supports normal back-and-forth conversation.
 
 ## Soft Bumper
 **IT'S OK TO THINK OUTSIDE THE BOX A BIT, BUT DON'T LEAVE THE BOX.**

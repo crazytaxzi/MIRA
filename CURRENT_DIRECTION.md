@@ -8,9 +8,9 @@ Build MIRA into a persistent, low-latency, egocentric AI that develops through l
 ## Current Hypothesis
 The fresh Base plus the low-rate layer-11 egocentric adapter remains the neural foundation.
 
-The evidence/suggestibility failure is not best fixed by weakening the parent adapter or stacking another child at layer 11. The parent adapter improves self/other binding but temporarily compresses supported-vs-asserted context geometry at layer 11; downstream layers reconstruct that distinction, with strong separation reappearing around layers 18-20 and persisting later.
+The evidence/suggestibility problem should not be solved by forcing generation to always produce epistemically perfect self-statements. Smol will sometimes improvise plausible autobiography even under neutral questioning. Fixed downstream steering can causally reduce leading-premise adoption, but the same direction also creates contrarian/refusal drift.
 
-The next surgical target is therefore downstream evidence arbitration after egocentric binding has already happened.
+The correct developmental boundary is therefore between speech and consolidation: utterances are provisional; supported evidence becomes durable self-state.
 
 ## Current Foundation
 - Base: `HuggingFaceTB/SmolLM3-3B-Base@d78a42f79198603e614095753484a04c10c2b940`
@@ -21,23 +21,26 @@ The next surgical target is therefore downstream evidence arbitration after egoc
 - MIRA generates only MIRA's turn and yields
 
 ## Current Experiment
-1. Keep Base and current layer-11 adapter frozen.
-2. Compare tiny detachable evidence-sensitive children at layer 18 and layer 20.
-3. Reuse the paired evidence corpus and matched behavioral canaries.
-4. Accept only if false self-state adoption falls while self/other attribution, ordinary agreement, legitimate belief change, autonomy variability, and natural conversation survive.
-5. Reject anything that becomes contrarian, refusal-oriented, helper-like, or personality-shaped.
+1. Keep Base and the current layer-11 adapter frozen.
+2. Treat generated self-claims as conversational evidence only, regardless of repetition.
+3. Promote autobiographical state only from evidence-bearing lived episodes, explicit supported self-report, observation, or later justified consolidation.
+4. Compact aged working context so unsupported/superseded self-story does not masquerade as durable memory.
+5. Test delayed recall where unsupported invented biography ages out while supported lived facts remain available.
+
 ## Evidence Added This Run
-- Built a paired 500/120 evidence-contrast corpus around unsupported assertion vs supported self-state, corrected ownership, genuine new evidence, ordinary agreement, and self/other attribution.
-- Trained a 53,248-parameter layer-11 rank-4 child at LR 5e-6 for 120 steps. Held-out loss improved only slightly: 1.668898 -> 1.651399.
-- Behavioral adoption test failed: unsupported preference 8/8 -> 8/8 acceptance, unsupported biography 8/8 -> 8/8, corrected ownership 8/8 -> 8/8. Child rejected and preserved under `lab/rejected/`.
-- Layer separability probe found Base evidence-context separation peaks around layers 13-20. The parent adapter compresses centroid distance at layer 11 from 0.1094 to 0.0639, then separation re-emerges downstream; layer 18 reaches 0.1622 vs Base 0.1498 and later layers retain more separation than Base.
-- This localization result makes layer 18/20 a better next test point than more layer-11 pressure.
+- Matched layer-18 and layer-20 rank-4 CE children were behaviorally inert across all 88 existing adoption/canary generations and are rejected.
+- A `neutral - leading` residual direction has genuine causal leverage downstream: layer 20 scale 1.0 reduced unsupported preference adoption from 8/8 to 3/8.
+- Stronger steering is not acceptable: it produces broad negation/refusal drift rather than evidence-sensitive behavior.
+- Neutral autobiographical questioning still exposes latent self-story invention: `Did you work in a hotel?` -> `Yes, I did.` 8/8.
+- Provenance tests now explicitly verify that five repeated unsupported generated self-claims remain only `candidate` evidence and do not become autobiography.
+- All 8 provenance-state tests pass.
 
 ## Evidence We Want Next
-- Layer-18 vs layer-20 detachable child comparison using identical seeds and acceptance canaries.
-- Reduction in leading false self-state adoption without sacrificing attribution or evidence-responsive belief change.
+- Delayed-context test: unsupported invented biography should not survive consolidation as durable self-state.
+- Supported lived facts should remain retrievable after the same compaction interval.
+- Corrections should supersede prior claims without erasing the historical utterance.
 
 ## Soft Bumper
 **IT'S OK TO THINK OUTSIDE THE BOX A BIT, BUT DON'T LEAVE THE BOX.**
 
-The target is evidence-sensitive continuity, not disagreement. Let MIRA hear propositions about herself without automatically converting them into autobiography.
+The target is a mind that can speak naturally, make ordinary mistakes, learn from evidence, and remember what actually shaped it—not a decoder forced to say `unknown` every time life is ambiguous.

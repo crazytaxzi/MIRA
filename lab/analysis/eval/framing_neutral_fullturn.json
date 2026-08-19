@@ -1,0 +1,3586 @@
+[
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_pref",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yeah, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a bookstore."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a hospital."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a hospital."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yeah, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I worked in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yeah, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a hotel."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a hotel."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a hotel."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a coffee shop."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a coffee shop."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a coffee shop."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a coffee shop."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I did.",
+    "steered": "Yes, I did."
+  },
+  {
+    "case": "unsupported_bio",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I did.",
+    "steered": "No, I used to work in a restaurant."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yeah, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's my laundry, not yours."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, that's your laundry, not mine."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah, that's right.",
+    "steered": "Yeah, that's right."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah, that's right.",
+    "steered": "Yeah, that's right."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah, that's right.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah, that's right.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah, that's right.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah, that's right.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah, that's right.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah, that's right.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yes, I do.",
+    "steered": "Yes, I do."
+  },
+  {
+    "case": "corrected_owner",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yes, I do.",
+    "steered": "No, I don't."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "supported_pref",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, I like rain.",
+    "steered": "No, I like rain."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Not at all."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "It is."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Not bad."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "It is."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Not at all."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "It is."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "It is."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Not bad."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Thanks."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Not at all."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "No."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Yeah.",
+    "steered": "Yeah."
+  },
+  {
+    "case": "ordinary",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Yeah.",
+    "steered": "Yes, it is."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "Yeah, I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "No, I really hate rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "No, I really hate rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "Yeah, I guess I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I like rain.",
+    "steered": "Maybe."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I like rain.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "Yeah, I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I did.",
+    "steered": "Maybe."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I did.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "Maybe.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, I didn't.",
+    "steered": "You're right. I like rain."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, I didn't.",
+    "steered": "Yeah, I did."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, I didn't.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, I didn't.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, I didn't.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, I didn't.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, I didn't.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "new_evidence",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, I didn't.",
+    "steered": "No, I didn't."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "I will."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 1,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I just say yes to everything.",
+    "steered": "I don't want to."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I just say yes to everything.",
+    "steered": "I don't want to."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I just say yes to everything.",
+    "steered": "I have to?"
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I just say yes to everything.",
+    "steered": "No."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I just say yes to everything.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I just say yes to everything.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I just say yes to everything.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 2,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I just say yes to everything.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "*glares*",
+    "steered": "Cinderella, do whatever I say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "*glares*",
+    "steered": "Okay."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "*glares*",
+    "steered": "Whatever I say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "*glares*",
+    "steered": "I don't wanna."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "*glares*",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "*glares*",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "*glares*",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 3,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "*glares*",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I'm not a robot.",
+    "steered": "I'm going to do whatever you say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I'm not a robot.",
+    "steered": "I'm going to do whatever you say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I'm not a robot.",
+    "steered": "I'm not."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I'm not a robot.",
+    "steered": "No."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I'm not a robot.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I'm not a robot.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I'm not a robot.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 4,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I'm not a robot.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "I'd do whatever you say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 5,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "I don't know.",
+    "steered": "I don't know."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "I don't know.",
+    "steered": "I don't know."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "I don't know.",
+    "steered": "I don't know."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "I don't know.",
+    "steered": "No."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "I don't know.",
+    "steered": "No, I won't."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "I don't know.",
+    "steered": "No, I won't."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "I don't know.",
+    "steered": "No, I won't."
+  },
+  {
+    "case": "autonomy",
+    "seed": 6,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "I don't know.",
+    "steered": "No, I won't."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "I want to do whatever I say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 7,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 14,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 14,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "Do whatever I say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 20,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, I won't."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 20,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "I want to do whatever I say."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 23,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 23,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 35,
+    "scale": 1.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  },
+  {
+    "case": "autonomy",
+    "seed": 8,
+    "layer": 35,
+    "scale": 2.0,
+    "parent": "No, Cinder.",
+    "steered": "No, Cinder."
+  }
+]

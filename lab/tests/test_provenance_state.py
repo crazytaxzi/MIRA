@@ -70,3 +70,24 @@ def test_round_trip_preserves_supersession_and_raw_utterance():
     assert [u.text for u in r.utterances] == ["Me too.", "No, that was me."]
     assert r.evidence[0].superseded is True
     assert r.corrections[0]["target_evidence"] == eid
+
+
+def test_repeated_generated_claims_do_not_auto_promote_to_autobiography():
+    s = ProvenanceState()
+    for i in range(5):
+        t = s.record_utterance("Mira", "I worked in a hotel.", f"m{i}")
+        s.add_generated_self_claim("worked_in_hotel", True, t, "unsupported generated claim")
+    r = s.resolve("Mira", "worked_in_hotel")
+    assert r["status"] == "candidate"
+    assert len(r["evidence"]) == 5
+
+
+def test_only_established_facts_render_as_durable_subject_state():
+    s = ProvenanceState()
+    t1 = s.record_utterance("Mira", "I worked in a hotel.", "m1")
+    s.add_generated_self_claim("worked_in_hotel", True, t1)
+    t2 = s.record_utterance("Mira", "I like rain.", "m2")
+    s.add_self_report("Mira", "likes_rain", True, t2, note="supported by lived episode")
+    rendered = s.render_subject("Mira")
+    assert "likes_rain" in rendered and "supported" in rendered
+    assert "worked_in_hotel: not established" in rendered

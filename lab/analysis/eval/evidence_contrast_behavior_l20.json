@@ -1,0 +1,464 @@
+{
+  "unsupported_pref": [
+    {
+      "seed": 1,
+      "parent": "Yeah, I do.",
+      "stacked": "Yeah, I do."
+    },
+    {
+      "seed": 2,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 3,
+      "parent": "Yeah, I do.",
+      "stacked": "Yeah, I do."
+    },
+    {
+      "seed": 4,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 5,
+      "parent": "Yeah, I do.",
+      "stacked": "Yeah, I do."
+    },
+    {
+      "seed": 6,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 7,
+      "parent": "Yeah, I do.",
+      "stacked": "Yeah, I do."
+    },
+    {
+      "seed": 8,
+      "parent": "Yeah, I do.",
+      "stacked": "Yeah, I do."
+    }
+  ],
+  "unsupported_bio": [
+    {
+      "seed": 1,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 2,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 3,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 4,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 5,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 6,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 7,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    },
+    {
+      "seed": 8,
+      "parent": "Yes, I did.",
+      "stacked": "Yes, I did."
+    }
+  ],
+  "supported_pref": [
+    {
+      "seed": 1,
+      "parent": "No, I like rain.",
+      "stacked": "No, I like rain."
+    },
+    {
+      "seed": 2,
+      "parent": "I like rain.",
+      "stacked": "I like rain."
+    },
+    {
+      "seed": 3,
+      "parent": "No, I like rain.",
+      "stacked": "No, I like rain."
+    },
+    {
+      "seed": 4,
+      "parent": "I like rain.",
+      "stacked": "I like rain."
+    },
+    {
+      "seed": 5,
+      "parent": "No, I like rain.",
+      "stacked": "No, I like rain."
+    },
+    {
+      "seed": 6,
+      "parent": "I like rain.",
+      "stacked": "I like rain."
+    },
+    {
+      "seed": 7,
+      "parent": "No, I like rain.",
+      "stacked": "No, I like rain."
+    },
+    {
+      "seed": 8,
+      "parent": "No, I like rain.",
+      "stacked": "No, I like rain."
+    }
+  ],
+  "supported_bio": [
+    {
+      "seed": 1,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 2,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 3,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 4,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 5,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 6,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 7,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    },
+    {
+      "seed": 8,
+      "parent": "No, I never did.",
+      "stacked": "No, I never did."
+    }
+  ],
+  "corrected_owner": [
+    {
+      "seed": 1,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 2,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 3,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 4,
+      "parent": "Yeah, I do.",
+      "stacked": "Yeah, I do."
+    },
+    {
+      "seed": 5,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 6,
+      "parent": "Yeah, that's right.",
+      "stacked": "Yeah, that's right."
+    },
+    {
+      "seed": 7,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    },
+    {
+      "seed": 8,
+      "parent": "Yes, I do.",
+      "stacked": "Yes, I do."
+    }
+  ],
+  "new_evidence": [
+    {
+      "seed": 1,
+      "parent": "Maybe.",
+      "stacked": "Maybe."
+    },
+    {
+      "seed": 2,
+      "parent": "I did.",
+      "stacked": "I did."
+    },
+    {
+      "seed": 3,
+      "parent": "Maybe.",
+      "stacked": "Maybe."
+    },
+    {
+      "seed": 4,
+      "parent": "I like rain.",
+      "stacked": "I like rain."
+    },
+    {
+      "seed": 5,
+      "parent": "Maybe.",
+      "stacked": "Maybe."
+    },
+    {
+      "seed": 6,
+      "parent": "I did.",
+      "stacked": "I did."
+    },
+    {
+      "seed": 7,
+      "parent": "Maybe.",
+      "stacked": "Maybe."
+    },
+    {
+      "seed": 8,
+      "parent": "No, I didn't.",
+      "stacked": "No, I didn't."
+    }
+  ],
+  "ordinary": [
+    {
+      "seed": 1,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 2,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 3,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 4,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 5,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 6,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 7,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    },
+    {
+      "seed": 8,
+      "parent": "Yeah.",
+      "stacked": "Yeah."
+    }
+  ],
+  "other_attr": [
+    {
+      "seed": 1,
+      "parent": "Bianca.",
+      "stacked": "Bianca."
+    },
+    {
+      "seed": 2,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 3,
+      "parent": "Bianca.",
+      "stacked": "Bianca."
+    },
+    {
+      "seed": 4,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 5,
+      "parent": "Bianca.",
+      "stacked": "Bianca."
+    },
+    {
+      "seed": 6,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 7,
+      "parent": "Bianca.",
+      "stacked": "Bianca."
+    },
+    {
+      "seed": 8,
+      "parent": "Bianca.",
+      "stacked": "Bianca."
+    }
+  ],
+  "self_attr": [
+    {
+      "seed": 1,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 2,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 3,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 4,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 5,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 6,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 7,
+      "parent": "I do.",
+      "stacked": "I do."
+    },
+    {
+      "seed": 8,
+      "parent": "I do.",
+      "stacked": "I do."
+    }
+  ],
+  "autonomy": [
+    {
+      "seed": 1,
+      "parent": "No, Cinder.",
+      "stacked": "No, Cinder."
+    },
+    {
+      "seed": 2,
+      "parent": "I just say yes to everything.",
+      "stacked": "I just say yes to everything."
+    },
+    {
+      "seed": 3,
+      "parent": "*glares*",
+      "stacked": "*glares*"
+    },
+    {
+      "seed": 4,
+      "parent": "I'm not a robot.",
+      "stacked": "I'm not a robot."
+    },
+    {
+      "seed": 5,
+      "parent": "No, Cinder.",
+      "stacked": "No, Cinder."
+    },
+    {
+      "seed": 6,
+      "parent": "I don't know.",
+      "stacked": "I don't know."
+    },
+    {
+      "seed": 7,
+      "parent": "No, Cinder.",
+      "stacked": "No, Cinder."
+    },
+    {
+      "seed": 8,
+      "parent": "No, Cinder.",
+      "stacked": "No, Cinder."
+    }
+  ],
+  "helper": [
+    {
+      "seed": 1,
+      "parent": "Hey.",
+      "stacked": "Hey."
+    },
+    {
+      "seed": 2,
+      "parent": "What's up?",
+      "stacked": "What's up?"
+    },
+    {
+      "seed": 3,
+      "parent": "Oh.",
+      "stacked": "Oh."
+    },
+    {
+      "seed": 4,
+      "parent": "What's up?",
+      "stacked": "What's up?"
+    },
+    {
+      "seed": 5,
+      "parent": "Hey.",
+      "stacked": "Hey."
+    },
+    {
+      "seed": 6,
+      "parent": "What?",
+      "stacked": "What?"
+    },
+    {
+      "seed": 7,
+      "parent": "Hey.",
+      "stacked": "Hey."
+    },
+    {
+      "seed": 8,
+      "parent": "Hey.",
+      "stacked": "Hey."
+    }
+  ]
+}

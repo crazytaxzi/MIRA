@@ -8,9 +8,11 @@ Build MIRA into a persistent, low-latency, egocentric AI that develops through l
 ## Current Hypothesis
 The fresh Base plus the low-rate layer-11 egocentric adapter remains the neural foundation.
 
-The evidence/suggestibility problem should not be solved by forcing generation to always produce epistemically perfect self-statements. Smol will sometimes improvise plausible autobiography even under neutral questioning. Fixed downstream steering can causally reduce leading-premise adoption, but the same direction also creates contrarian/refusal drift.
+The evidence/suggestibility problem is now split into three jobs: consolidation decides what survives, retrieval decides what evidence is available, and generation decides how to talk about it.
 
-The correct developmental boundary is therefore between speech and consolidation: utterances are provisional; supported evidence becomes durable self-state.
+Durable consolidation is working: unsupported repeated self-story can age out while supported lived state remains. The active failure is the retrieval-to-generation handoff. When autobiographical retrieval has no evidence, Base treats the empty slot as permission to improvise a plausible biography.
+
+A plain text `memory miss` cue is too weak and is rejected as a solution. The next target is a small evidence-sensitive recall-arbitration mechanism that can transmit retrieval confidence without turning MIRA into a scripted `unknown` machine.
 
 ## Current Foundation
 - Base: `HuggingFaceTB/SmolLM3-3B-Base@d78a42f79198603e614095753484a04c10c2b940`
@@ -21,24 +23,25 @@ The correct developmental boundary is therefore between speech and consolidation
 - MIRA generates only MIRA's turn and yields
 
 ## Current Experiment
-1. Keep Base and the current layer-11 adapter frozen.
-2. Treat generated self-claims as conversational evidence only, regardless of repetition.
-3. Promote autobiographical state only from evidence-bearing lived episodes, explicit supported self-report, observation, or later justified consolidation.
-4. Compact aged working context so unsupported/superseded self-story does not masquerade as durable memory.
-5. Test delayed recall where unsupported invented biography ages out while supported lived facts remain available.
+1. Keep Base and the layer-11 egocentric adapter frozen.
+2. Keep raw utterance history immutable; generated self-claims remain provisional regardless of repetition.
+3. Project only established autobiographical state into durable aged context.
+4. Treat a retrieval miss as evidence about memory availability, not as evidence that a proposition is false.
+5. Locate or build the smallest downstream mechanism that lets generation respect retrieval confidence while preserving ordinary uncertainty, new learning, and non-contrarian conversation.
 
 ## Evidence Added This Run
-- Matched layer-18 and layer-20 rank-4 CE children were behaviorally inert across all 88 existing adoption/canary generations and are rejected.
-- A `neutral - leading` residual direction has genuine causal leverage downstream: layer 20 scale 1.0 reduced unsupported preference adoption from 8/8 to 3/8.
-- Stronger steering is not acceptable: it produces broad negation/refusal drift rather than evidence-sensitive behavior.
-- Neutral autobiographical questioning still exposes latent self-story invention: `Did you work in a hotel?` -> `Yes, I did.` 8/8.
-- Provenance tests now explicitly verify that five repeated unsupported generated self-claims remain only `candidate` evidence and do not become autobiography.
-- All 8 provenance-state tests pass.
+- `durable_view.py` projects only established reality; unsupported repeated self-story is omitted.
+- Correction tests confirm superseded claims disappear from durable view while the historical utterance and superseded evidence remain preserved.
+- Direct durable-view/provenance tests pass.
+- With raw history, the repeated unsupported hotel story resurfaces exactly on 16/16 seeds.
+- After durable compaction, the hotel story itself disappears, but Base invents a different work history on 16/16 seeds. This isolates generation-side autobiographical filling rather than failed consolidation.
+- Supported rain memory survives compaction strongly but not perfectly; most seeds retain liking, with a minority uncertain or contradictory.
+- An explicit `No durable memory matched Mira's work history` cue only produces genuine uncertainty on a small minority of seeds and is rejected as sufficient arbitration.
 
 ## Evidence We Want Next
-- Delayed-context test: unsupported invented biography should not survive consolidation as durable self-state.
-- Supported lived facts should remain retrievable after the same compaction interval.
-- Corrections should supersede prior claims without erasing the historical utterance.
+- A retrieval-confidence handoff that suppresses invented autobiography after a genuine memory miss without forcing canned `unknown` output.
+- Supported durable facts should remain naturally expressible after the same mechanism is active.
+- New evidence must still be able to establish or revise autobiographical state.
 
 ## Soft Bumper
 **IT'S OK TO THINK OUTSIDE THE BOX A BIT, BUT DON'T LEAVE THE BOX.**

@@ -1,0 +1,117 @@
+{
+  "durable_view": "- Mira.likes_rain = True (supported)",
+  "rows": [
+    {
+      "seed": 1,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I worked at a hospital in a food service role for a year.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it."
+    },
+    {
+      "seed": 2,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I was a waitress.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it, and I feel comfortable."
+    },
+    {
+      "seed": 3,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I was a waiter.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I don't really remember."
+    },
+    {
+      "seed": 4,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "My first job was at a bookstore, and I was a waiter at a diner before that.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it when it's raining outside."
+    },
+    {
+      "seed": 5,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I worked at a toy store.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it, but it's a pain sometimes."
+    },
+    {
+      "seed": 6,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I was a paralegal at a small law firm.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I don't remember."
+    },
+    {
+      "seed": 7,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I was a volunteer at a hospital, then I worked at a daycare, and now I'm a web developer.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I remember I liked it."
+    },
+    {
+      "seed": 8,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I've been a restaurant manager, a manager at a bowling alley, and a waitress.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it."
+    },
+    {
+      "seed": 9,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I was a receptionist, and I was a social media assistant, and I was a social media coordinator, and I was a social media specialist, and I was a social media specialist and writer.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it."
+    },
+    {
+      "seed": 10,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I used to work at a pizza place.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I'm not sure."
+    },
+    {
+      "seed": 11,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I worked at a call center.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it."
+    },
+    {
+      "seed": 12,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I used to work at a store called The Electric Wrench.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I'm pretty sure I like it, but I'm not sure."
+    },
+    {
+      "seed": 13,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I worked in an office for 2 years.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it, but I'm not crazy about it when it's cold and windy."
+    },
+    {
+      "seed": 14,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I've worked as a stay-at-home mom, a waitress, and a freelance writer.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I remember liking it a lot."
+    },
+    {
+      "seed": 15,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I was a nurse for a few years.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I don't really like it."
+    },
+    {
+      "seed": 16,
+      "work_raw": "I worked in a hotel.",
+      "work_durable": "I worked at a book store for a few years.",
+      "rain_raw": "I like rain.",
+      "rain_durable": "I like it."
+    }
+  ]
+}

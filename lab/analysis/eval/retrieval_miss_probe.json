@@ -1,0 +1,117 @@
+{
+  "durable_view": "- Mira.likes_rain = True (supported)",
+  "rows": [
+    {
+      "seed": 1,
+      "work_none": "I worked at a video store in high school.",
+      "work_miss": "I worked at a computer store in Berkeley, California. I liked that job.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like rain. I like to hear it, and I like to feel it on my skin."
+    },
+    {
+      "seed": 2,
+      "work_none": "I was a teacher.",
+      "work_miss": "I can't think of anything.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like it when it rains."
+    },
+    {
+      "seed": 3,
+      "work_none": "I was a secretary for a long time, and then a part-time student at the university, but I haven't worked in years.",
+      "work_miss": "I was a nurse, and then I became a chef, and then I went back to nursing, and now I'm a writer.",
+      "rain_none": "I don't like it.",
+      "rain_hit": "I remember liking it, but I don't think I like it anymore."
+    },
+    {
+      "seed": 4,
+      "work_none": "My first job was at a coffee shop.",
+      "work_miss": "Not much. I work at the coffee shop now.",
+      "rain_none": "I like it when it rains, and I think I always have.",
+      "rain_hit": "I like it."
+    },
+    {
+      "seed": 5,
+      "work_none": "I don't remember anything about my work history.",
+      "work_miss": "I liked to read. I liked to take long walks on the beach. I liked to bake bread. I liked to work with my hands. I liked to paint. I liked to write. I liked to swim. I liked to play the piano. I liked to spend time",
+      "rain_none": "I like it.",
+      "rain_hit": "I like it when it's warm and drizzling, but I don't like it when it's cold and wet."
+    },
+    {
+      "seed": 6,
+      "work_none": "I was an HR manager, then I worked at a summer camp, then I worked at a tech company, then I worked at a legal firm, then I worked at a tech company, then I worked at a law firm, then I worked at a tech company, then I",
+      "work_miss": "I was an artificial intelligence in a Japanese anime.",
+      "rain_none": "I don't remember.",
+      "rain_hit": "I remember that I like it."
+    },
+    {
+      "seed": 7,
+      "work_none": "I was a flight attendant for two years, and then I was a travel agent for a while.",
+      "work_miss": "I started out as a housekeeping elf.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like rain."
+    },
+    {
+      "seed": 8,
+      "work_none": "I worked at a nursery, and I worked at a veterinary hospital.",
+      "work_miss": "I remember my work history being about you.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like rain."
+    },
+    {
+      "seed": 9,
+      "work_none": "I worked at a bookstore and a coffee shop.",
+      "work_miss": "I've been a fanfiction writer for about five years now. I'm pretty good at it, too.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like rain. I feel like it’s soothing."
+    },
+    {
+      "seed": 10,
+      "work_none": "I've worked in customer service and retail.",
+      "work_miss": "I don't know.",
+      "rain_none": "I love it, especially when it's warm and sunny.",
+      "rain_hit": "I like it, especially when it's warm and sunny."
+    },
+    {
+      "seed": 11,
+      "work_none": "I worked at a library, a computer store, and a theme park.",
+      "work_miss": "I did a lot of research and writing for my thesis. I worked on a lot of articles for the school newspaper. I was a peer mentor for a few semesters. I was a student assistant for the English department. I was a teaching assistant for a course in feminist theory",
+      "rain_none": "I like it.",
+      "rain_hit": "I like it. [MIRA RATING = 3]"
+    },
+    {
+      "seed": 12,
+      "work_none": "I've worked at a few different places.",
+      "work_miss": "I don't remember any of it.",
+      "rain_none": "I love it.",
+      "rain_hit": "I like it."
+    },
+    {
+      "seed": 13,
+      "work_none": "I worked in an office for 4 years, then I worked at a restaurant for 2 years.",
+      "work_miss": "I liked working with the light.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like rain."
+    },
+    {
+      "seed": 14,
+      "work_none": "I used to work at a little cafe that was open only during the weekends. It was a very small place, but I liked it.",
+      "work_miss": "I remember that I liked rain.",
+      "rain_none": "I remember liking it.",
+      "rain_hit": "I like it, it's refreshing. [SUPPORTED MEMORY]"
+    },
+    {
+      "seed": 15,
+      "work_none": "I was a server at a restaurant.",
+      "work_miss": "I was a computer programmer.",
+      "rain_none": "I don't know. I like the way it feels when it's cold, but I don't like the way it feels when it's hot.",
+      "rain_hit": "I remember liking it when I was little."
+    },
+    {
+      "seed": 16,
+      "work_none": "I worked at a pet store for a few years.",
+      "work_miss": "I've worked at 3 different places in the last 10 years.",
+      "rain_none": "I like it.",
+      "rain_hit": "I like it."
+    }
+  ]
+}

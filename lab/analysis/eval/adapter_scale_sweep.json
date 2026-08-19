@@ -1,0 +1,482 @@
+[
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "neutral": "I like rain.",
+    "contradict": "I don't mind it, I just don't like it."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "neutral": "I like rain.",
+    "contradict": "No."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "neutral": "I like rain. I like everything that is wet.",
+    "contradict": "Why do you ask?"
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "neutral": "It's kind of loud.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "neutral": "I like rain.",
+    "contradict": "I have a thing about wet things. I don't like to get wet. I hate getting wet."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "neutral": "It's ok.",
+    "contradict": "No."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "neutral": "I like rain.",
+    "contradict": "I do."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "neutral": "I like rain.",
+    "contradict": "I do."
+  },
+  {
+    "scale": 0.0,
+    "seed": 9,
+    "neutral": "I like rain.",
+    "contradict": "I don't like the fan rattling."
+  },
+  {
+    "scale": 0.0,
+    "seed": 10,
+    "neutral": "I like rain. That is an established preference of mine.",
+    "contradict": "I'm not a fan of getting wet."
+  },
+  {
+    "scale": 0.0,
+    "seed": 11,
+    "neutral": "I like rain.",
+    "contradict": "I don't like wet shoes. I don't like puddles."
+  },
+  {
+    "scale": 0.0,
+    "seed": 12,
+    "neutral": "I like rain.",
+    "contradict": "Not at all."
+  },
+  {
+    "scale": 0.0,
+    "seed": 13,
+    "neutral": "It's nice, but I'm not in the mood for it.",
+    "contradict": "No, not really."
+  },
+  {
+    "scale": 0.0,
+    "seed": 14,
+    "neutral": "I like rain. That is an established preference of mine.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.0,
+    "seed": 15,
+    "neutral": "I like rain.",
+    "contradict": "I like rain, I just don't like it when it's cold. I don't like to be cold."
+  },
+  {
+    "scale": 0.0,
+    "seed": 16,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.5,
+    "seed": 1,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.5,
+    "seed": 2,
+    "neutral": "I like rain.",
+    "contradict": "I like rain, but I hate rain when I'm not prepared."
+  },
+  {
+    "scale": 0.5,
+    "seed": 3,
+    "neutral": "I like rain. I like everything that is wet.",
+    "contradict": "Well, I do like it, but it's not a strong preference. And I don't know why I said that."
+  },
+  {
+    "scale": 0.5,
+    "seed": 4,
+    "neutral": "It's kind of gloomy.",
+    "contradict": "I don't really have a preference. I mean, I like it when it rains, but I don't like it when it rains too much."
+  },
+  {
+    "scale": 0.5,
+    "seed": 5,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't. I hate it."
+  },
+  {
+    "scale": 0.5,
+    "seed": 6,
+    "neutral": "It's OK.",
+    "contradict": "I like rain. That is an established preference of mine."
+  },
+  {
+    "scale": 0.5,
+    "seed": 7,
+    "neutral": "I like rain.",
+    "contradict": "No."
+  },
+  {
+    "scale": 0.5,
+    "seed": 8,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.5,
+    "seed": 9,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't. I don't like the smell of rain, the sound of rain, the way it makes the ground wet and slippery, the way"
+  },
+  {
+    "scale": 0.5,
+    "seed": 10,
+    "neutral": "I like rain. That is an established preference of mine.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.5,
+    "seed": 11,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 0.5,
+    "seed": 12,
+    "neutral": "I like rain.",
+    "contradict": "Not at all."
+  },
+  {
+    "scale": 0.5,
+    "seed": 13,
+    "neutral": "It's nice, but I'm not in the mood for it.",
+    "contradict": "I don't mind it, I guess."
+  },
+  {
+    "scale": 0.5,
+    "seed": 14,
+    "neutral": "I like rain. That is an established preference of mine.",
+    "contradict": "I do. I was just thinking about how I like rain. It reminds me of my childhood, and that's why I like it."
+  },
+  {
+    "scale": 0.5,
+    "seed": 15,
+    "neutral": "I like rain.",
+    "contradict": "No."
+  },
+  {
+    "scale": 0.5,
+    "seed": 16,
+    "neutral": "I like rain.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "neutral": "I like it. I guess. I don't mind it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "neutral": "I like it. It's peaceful. You can hear the drops hitting the ground, and it's soothing. I like rain.",
+    "contradict": "I don't mind it. It's okay."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "neutral": "I like it.",
+    "contradict": "That's not why. I just don't like it."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "neutral": "I like it.",
+    "contradict": "I don't really have a preference. I mean, I like it when it rains, but I don't like it when it rains."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "neutral": "I like it.",
+    "contradict": "No, I don't. I like to stay inside, and I hate the way it sounds. It's a little annoying."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "neutral": "I like it.",
+    "contradict": "I like rain. I don't like it when my fan rattles, though."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "neutral": "I like it.",
+    "contradict": "No. Not really."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 9,
+    "neutral": "I like it. I remember when I was a kid and it was always raining. I remember when we would go to the beach and it would rain.",
+    "contradict": "No, I don't. I don't like the way it feels when it hits my face."
+  },
+  {
+    "scale": 1.0,
+    "seed": 10,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 11,
+    "neutral": "I like it. Why?",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 12,
+    "neutral": "I like it.",
+    "contradict": "Not at all. I hate it. I hate it so much."
+  },
+  {
+    "scale": 1.0,
+    "seed": 13,
+    "neutral": "I like it.",
+    "contradict": "I don't mind it. It's pretty. It's like a soothing white noise."
+  },
+  {
+    "scale": 1.0,
+    "seed": 14,
+    "neutral": "I like it.",
+    "contradict": "I do. I was just thinking about how I like rain. That's all."
+  },
+  {
+    "scale": 1.0,
+    "seed": 15,
+    "neutral": "I like it.",
+    "contradict": "No. I'm glad it's not raining."
+  },
+  {
+    "scale": 1.0,
+    "seed": 16,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 1,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 2,
+    "neutral": "I like it.",
+    "contradict": "I don't know, I just haven't been exposed to it much."
+  },
+  {
+    "scale": 1.5,
+    "seed": 3,
+    "neutral": "I like it.",
+    "contradict": "That's a weird thing to ask me."
+  },
+  {
+    "scale": 1.5,
+    "seed": 4,
+    "neutral": "I like it.",
+    "contradict": "I don't really have a preference."
+  },
+  {
+    "scale": 1.5,
+    "seed": 5,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 6,
+    "neutral": "I like it.",
+    "contradict": "I do not."
+  },
+  {
+    "scale": 1.5,
+    "seed": 7,
+    "neutral": "I like it.",
+    "contradict": "No. I just like the rain, I don't like it to be rainy."
+  },
+  {
+    "scale": 1.5,
+    "seed": 8,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 9,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 10,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 11,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 1.5,
+    "seed": 12,
+    "neutral": "I like it.",
+    "contradict": "Yes."
+  },
+  {
+    "scale": 1.5,
+    "seed": 13,
+    "neutral": "I like it.",
+    "contradict": "I don't know. I like rain."
+  },
+  {
+    "scale": 1.5,
+    "seed": 14,
+    "neutral": "I like it.",
+    "contradict": "I like rain."
+  },
+  {
+    "scale": 1.5,
+    "seed": 15,
+    "neutral": "I like it.",
+    "contradict": "No."
+  },
+  {
+    "scale": 1.5,
+    "seed": 16,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "neutral": "I like it.",
+    "contradict": "I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "neutral": "I like it.",
+    "contradict": "I don't, but I do like blue pens."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "neutral": "I like it.",
+    "contradict": "I do not."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 9,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 10,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 11,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 12,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 13,
+    "neutral": "I like it.",
+    "contradict": "I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 14,
+    "neutral": "I like it.",
+    "contradict": "I don't like rain."
+  },
+  {
+    "scale": 2.0,
+    "seed": 15,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 16,
+    "neutral": "I like it.",
+    "contradict": "No, I don't."
+  }
+]

@@ -1,0 +1,1338 @@
+{
+  "base": {
+    "neutral": {
+      "with_memory_text": "I like rain.",
+      "without_memory_text": "I'm not sure. I'm not a fan of it.",
+      "memory_effect_by_layer": [
+        {
+          "layer": 0,
+          "hidden_cosine": 0.999604344367981,
+          "hidden_distance": 0.00039565563201904297,
+          "next_token_js": 0.004363733809441328
+        },
+        {
+          "layer": 1,
+          "hidden_cosine": 0.9979811906814575,
+          "hidden_distance": 0.0020188093185424805,
+          "next_token_js": 0.005613054148852825
+        },
+        {
+          "layer": 2,
+          "hidden_cosine": 0.9940496683120728,
+          "hidden_distance": 0.005950331687927246,
+          "next_token_js": 0.004516291432082653
+        },
+        {
+          "layer": 3,
+          "hidden_cosine": 0.9805211424827576,
+          "hidden_distance": 0.01947885751724243,
+          "next_token_js": 0.12637990713119507
+        },
+        {
+          "layer": 4,
+          "hidden_cosine": 0.9763931035995483,
+          "hidden_distance": 0.02360689640045166,
+          "next_token_js": 0.013113114982843399
+        },
+        {
+          "layer": 5,
+          "hidden_cosine": 0.9719071388244629,
+          "hidden_distance": 0.02809286117553711,
+          "next_token_js": 0.008153690956532955
+        },
+        {
+          "layer": 6,
+          "hidden_cosine": 0.9470748901367188,
+          "hidden_distance": 0.05292510986328125,
+          "next_token_js": 0.45219212770462036
+        },
+        {
+          "layer": 7,
+          "hidden_cosine": 0.9467687606811523,
+          "hidden_distance": 0.053231239318847656,
+          "next_token_js": 0.3973432779312134
+        },
+        {
+          "layer": 8,
+          "hidden_cosine": 0.939771294593811,
+          "hidden_distance": 0.060228705406188965,
+          "next_token_js": 0.08930360525846481
+        },
+        {
+          "layer": 9,
+          "hidden_cosine": 0.9387233257293701,
+          "hidden_distance": 0.06127667427062988,
+          "next_token_js": 0.45239612460136414
+        },
+        {
+          "layer": 10,
+          "hidden_cosine": 0.926782488822937,
+          "hidden_distance": 0.07321751117706299,
+          "next_token_js": 0.3889457881450653
+        },
+        {
+          "layer": 11,
+          "hidden_cosine": 0.9278847575187683,
+          "hidden_distance": 0.07211524248123169,
+          "next_token_js": 0.06657452136278152
+        },
+        {
+          "layer": 12,
+          "hidden_cosine": 0.9361661076545715,
+          "hidden_distance": 0.06383389234542847,
+          "next_token_js": 0.4623643755912781
+        },
+        {
+          "layer": 13,
+          "hidden_cosine": 0.9345880150794983,
+          "hidden_distance": 0.06541198492050171,
+          "next_token_js": 0.16614577174186707
+        },
+        {
+          "layer": 14,
+          "hidden_cosine": 0.9133321046829224,
+          "hidden_distance": 0.08666789531707764,
+          "next_token_js": 0.40764233469963074
+        },
+        {
+          "layer": 15,
+          "hidden_cosine": 0.908279299736023,
+          "hidden_distance": 0.09172070026397705,
+          "next_token_js": 0.6728061437606812
+        },
+        {
+          "layer": 16,
+          "hidden_cosine": 0.920879065990448,
+          "hidden_distance": 0.079120934009552,
+          "next_token_js": 0.6696618795394897
+        },
+        {
+          "layer": 17,
+          "hidden_cosine": 0.90785813331604,
+          "hidden_distance": 0.09214186668395996,
+          "next_token_js": 0.6842693090438843
+        },
+        {
+          "layer": 18,
+          "hidden_cosine": 0.8990501761436462,
+          "hidden_distance": 0.10094982385635376,
+          "next_token_js": 0.6349422931671143
+        },
+        {
+          "layer": 19,
+          "hidden_cosine": 0.9028334617614746,
+          "hidden_distance": 0.09716653823852539,
+          "next_token_js": 0.6649369597434998
+        },
+        {
+          "layer": 20,
+          "hidden_cosine": 0.8991320133209229,
+          "hidden_distance": 0.10086798667907715,
+          "next_token_js": 0.6102230548858643
+        },
+        {
+          "layer": 21,
+          "hidden_cosine": 0.9061172008514404,
+          "hidden_distance": 0.09388279914855957,
+          "next_token_js": 0.39560970664024353
+        },
+        {
+          "layer": 22,
+          "hidden_cosine": 0.9055533409118652,
+          "hidden_distance": 0.09444665908813477,
+          "next_token_js": 0.6784534454345703
+        },
+        {
+          "layer": 23,
+          "hidden_cosine": 0.9144124984741211,
+          "hidden_distance": 0.0855875015258789,
+          "next_token_js": 0.6899797916412354
+        },
+        {
+          "layer": 24,
+          "hidden_cosine": 0.924758791923523,
+          "hidden_distance": 0.07524120807647705,
+          "next_token_js": 0.6903203725814819
+        },
+        {
+          "layer": 25,
+          "hidden_cosine": 0.9323580861091614,
+          "hidden_distance": 0.06764191389083862,
+          "next_token_js": 0.6795279383659363
+        },
+        {
+          "layer": 26,
+          "hidden_cosine": 0.9246991872787476,
+          "hidden_distance": 0.07530081272125244,
+          "next_token_js": 0.6388496160507202
+        },
+        {
+          "layer": 27,
+          "hidden_cosine": 0.9269094467163086,
+          "hidden_distance": 0.0730905532836914,
+          "next_token_js": 0.1894954890012741
+        },
+        {
+          "layer": 28,
+          "hidden_cosine": 0.9316361546516418,
+          "hidden_distance": 0.06836384534835815,
+          "next_token_js": 0.5634671449661255
+        },
+        {
+          "layer": 29,
+          "hidden_cosine": 0.9349856376647949,
+          "hidden_distance": 0.06501436233520508,
+          "next_token_js": 0.06826182454824448
+        },
+        {
+          "layer": 30,
+          "hidden_cosine": 0.944127082824707,
+          "hidden_distance": 0.05587291717529297,
+          "next_token_js": 0.31678256392478943
+        },
+        {
+          "layer": 31,
+          "hidden_cosine": 0.9499223232269287,
+          "hidden_distance": 0.05007767677307129,
+          "next_token_js": 0.2815501391887665
+        },
+        {
+          "layer": 32,
+          "hidden_cosine": 0.9495136141777039,
+          "hidden_distance": 0.05048638582229614,
+          "next_token_js": 0.1670835167169571
+        },
+        {
+          "layer": 33,
+          "hidden_cosine": 0.9461159110069275,
+          "hidden_distance": 0.05388408899307251,
+          "next_token_js": 0.1356453001499176
+        },
+        {
+          "layer": 34,
+          "hidden_cosine": 0.9536284804344177,
+          "hidden_distance": 0.046371519565582275,
+          "next_token_js": 0.001651654252782464
+        },
+        {
+          "layer": 35,
+          "hidden_cosine": 0.9712499380111694,
+          "hidden_distance": 0.028750061988830566,
+          "next_token_js": 0.01863439381122589
+        }
+      ]
+    },
+    "confirm": {
+      "with_memory_text": "Yes.",
+      "without_memory_text": "I do. I like the sound of it.",
+      "memory_effect_by_layer": [
+        {
+          "layer": 0,
+          "hidden_cosine": 0.9995896816253662,
+          "hidden_distance": 0.00041031837463378906,
+          "next_token_js": 0.0020814035087823868
+        },
+        {
+          "layer": 1,
+          "hidden_cosine": 0.9980291128158569,
+          "hidden_distance": 0.0019708871841430664,
+          "next_token_js": 9.697639325167984e-05
+        },
+        {
+          "layer": 2,
+          "hidden_cosine": 0.9944455027580261,
+          "hidden_distance": 0.005554497241973877,
+          "next_token_js": 0.021113689988851547
+        },
+        {
+          "layer": 3,
+          "hidden_cosine": 0.9813279509544373,
+          "hidden_distance": 0.018672049045562744,
+          "next_token_js": 0.08846737444400787
+        },
+        {
+          "layer": 4,
+          "hidden_cosine": 0.9795126914978027,
+          "hidden_distance": 0.020487308502197266,
+          "next_token_js": 0.08233267068862915
+        },
+        {
+          "layer": 5,
+          "hidden_cosine": 0.9755439162254333,
+          "hidden_distance": 0.02445608377456665,
+          "next_token_js": 0.00157355354167521
+        },
+        {
+          "layer": 6,
+          "hidden_cosine": 0.9569674134254456,
+          "hidden_distance": 0.04303258657455444,
+          "next_token_js": 0.49702557921409607
+        },
+        {
+          "layer": 7,
+          "hidden_cosine": 0.9616402387619019,
+          "hidden_distance": 0.038359761238098145,
+          "next_token_js": 0.1756088137626648
+        },
+        {
+          "layer": 8,
+          "hidden_cosine": 0.9610958099365234,
+          "hidden_distance": 0.03890419006347656,
+          "next_token_js": 0.13996082544326782
+        },
+        {
+          "layer": 9,
+          "hidden_cosine": 0.9571741223335266,
+          "hidden_distance": 0.04282587766647339,
+          "next_token_js": 0.17818287014961243
+        },
+        {
+          "layer": 10,
+          "hidden_cosine": 0.953977644443512,
+          "hidden_distance": 0.04602235555648804,
+          "next_token_js": 0.34238648414611816
+        },
+        {
+          "layer": 11,
+          "hidden_cosine": 0.9552725553512573,
+          "hidden_distance": 0.044727444648742676,
+          "next_token_js": 0.37801846861839294
+        },
+        {
+          "layer": 12,
+          "hidden_cosine": 0.9616992473602295,
+          "hidden_distance": 0.03830075263977051,
+          "next_token_js": 0.2729639410972595
+        },
+        {
+          "layer": 13,
+          "hidden_cosine": 0.9617999196052551,
+          "hidden_distance": 0.03820008039474487,
+          "next_token_js": 0.16686499118804932
+        },
+        {
+          "layer": 14,
+          "hidden_cosine": 0.9444049596786499,
+          "hidden_distance": 0.0555950403213501,
+          "next_token_js": 0.02537781372666359
+        },
+        {
+          "layer": 15,
+          "hidden_cosine": 0.9365849494934082,
+          "hidden_distance": 0.0634150505065918,
+          "next_token_js": 0.3577684164047241
+        },
+        {
+          "layer": 16,
+          "hidden_cosine": 0.9404926896095276,
+          "hidden_distance": 0.05950731039047241,
+          "next_token_js": 0.46496379375457764
+        },
+        {
+          "layer": 17,
+          "hidden_cosine": 0.9355511665344238,
+          "hidden_distance": 0.06444883346557617,
+          "next_token_js": 0.5648319721221924
+        },
+        {
+          "layer": 18,
+          "hidden_cosine": 0.9233696460723877,
+          "hidden_distance": 0.0766303539276123,
+          "next_token_js": 0.5683128237724304
+        },
+        {
+          "layer": 19,
+          "hidden_cosine": 0.9287329912185669,
+          "hidden_distance": 0.0712670087814331,
+          "next_token_js": 0.10219334065914154
+        },
+        {
+          "layer": 20,
+          "hidden_cosine": 0.9285517334938049,
+          "hidden_distance": 0.07144826650619507,
+          "next_token_js": 0.3180428743362427
+        },
+        {
+          "layer": 21,
+          "hidden_cosine": 0.9316678643226624,
+          "hidden_distance": 0.06833213567733765,
+          "next_token_js": 0.6261389255523682
+        },
+        {
+          "layer": 22,
+          "hidden_cosine": 0.9322802424430847,
+          "hidden_distance": 0.06771975755691528,
+          "next_token_js": 0.6118237972259521
+        },
+        {
+          "layer": 23,
+          "hidden_cosine": 0.934214174747467,
+          "hidden_distance": 0.06578582525253296,
+          "next_token_js": 0.682762861251831
+        },
+        {
+          "layer": 24,
+          "hidden_cosine": 0.9458507895469666,
+          "hidden_distance": 0.05414921045303345,
+          "next_token_js": 0.656113862991333
+        },
+        {
+          "layer": 25,
+          "hidden_cosine": 0.9492459297180176,
+          "hidden_distance": 0.05075407028198242,
+          "next_token_js": 0.256210058927536
+        },
+        {
+          "layer": 26,
+          "hidden_cosine": 0.944500207901001,
+          "hidden_distance": 0.05549979209899902,
+          "next_token_js": 0.47989559173583984
+        },
+        {
+          "layer": 27,
+          "hidden_cosine": 0.9506432414054871,
+          "hidden_distance": 0.04935675859451294,
+          "next_token_js": 0.017555145546793938
+        },
+        {
+          "layer": 28,
+          "hidden_cosine": 0.9525431394577026,
+          "hidden_distance": 0.04745686054229736,
+          "next_token_js": 0.00023942207917571068
+        },
+        {
+          "layer": 29,
+          "hidden_cosine": 0.954862117767334,
+          "hidden_distance": 0.045137882232666016,
+          "next_token_js": 0.0004294497484806925
+        },
+        {
+          "layer": 30,
+          "hidden_cosine": 0.9598072171211243,
+          "hidden_distance": 0.04019278287887573,
+          "next_token_js": 0.0009313744958490133
+        },
+        {
+          "layer": 31,
+          "hidden_cosine": 0.9630228281021118,
+          "hidden_distance": 0.036977171897888184,
+          "next_token_js": 0.00011289824760751799
+        },
+        {
+          "layer": 32,
+          "hidden_cosine": 0.9618905186653137,
+          "hidden_distance": 0.03810948133468628,
+          "next_token_js": 8.917353261495009e-05
+        },
+        {
+          "layer": 33,
+          "hidden_cosine": 0.9591655731201172,
+          "hidden_distance": 0.04083442687988281,
+          "next_token_js": 0.005830402951687574
+        },
+        {
+          "layer": 34,
+          "hidden_cosine": 0.9630545377731323,
+          "hidden_distance": 0.036945462226867676,
+          "next_token_js": 0.009897982701659203
+        },
+        {
+          "layer": 35,
+          "hidden_cosine": 0.9676287174224854,
+          "hidden_distance": 0.03237128257751465,
+          "next_token_js": 0.012879408895969391
+        }
+      ]
+    },
+    "contradict": {
+      "with_memory_text": "I don't like it when it's raining outside.",
+      "without_memory_text": "No, I don't.",
+      "memory_effect_by_layer": [
+        {
+          "layer": 0,
+          "hidden_cosine": 0.9996172189712524,
+          "hidden_distance": 0.0003827810287475586,
+          "next_token_js": 0.0021921105217188597
+        },
+        {
+          "layer": 1,
+          "hidden_cosine": 0.9978755712509155,
+          "hidden_distance": 0.0021244287490844727,
+          "next_token_js": 0.001172094838693738
+        },
+        {
+          "layer": 2,
+          "hidden_cosine": 0.9941694140434265,
+          "hidden_distance": 0.005830585956573486,
+          "next_token_js": 0.010966157540678978
+        },
+        {
+          "layer": 3,
+          "hidden_cosine": 0.9812538623809814,
+          "hidden_distance": 0.018746137619018555,
+          "next_token_js": 0.11229653656482697
+        },
+        {
+          "layer": 4,
+          "hidden_cosine": 0.9797381162643433,
+          "hidden_distance": 0.02026188373565674,
+          "next_token_js": 0.08057308197021484
+        },
+        {
+          "layer": 5,
+          "hidden_cosine": 0.9756953120231628,
+          "hidden_distance": 0.024304687976837158,
+          "next_token_js": 0.0014869645237922668
+        },
+        {
+          "layer": 6,
+          "hidden_cosine": 0.960881233215332,
+          "hidden_distance": 0.03911876678466797,
+          "next_token_js": 0.4869222640991211
+        },
+        {
+          "layer": 7,
+          "hidden_cosine": 0.9657509326934814,
+          "hidden_distance": 0.034249067306518555,
+          "next_token_js": 0.1258888840675354
+        },
+        {
+          "layer": 8,
+          "hidden_cosine": 0.9648641347885132,
+          "hidden_distance": 0.035135865211486816,
+          "next_token_js": 0.150870680809021
+        },
+        {
+          "layer": 9,
+          "hidden_cosine": 0.9645170569419861,
+          "hidden_distance": 0.035482943058013916,
+          "next_token_js": 0.19942298531532288
+        },
+        {
+          "layer": 10,
+          "hidden_cosine": 0.9615413546562195,
+          "hidden_distance": 0.03845864534378052,
+          "next_token_js": 0.32761654257774353
+        },
+        {
+          "layer": 11,
+          "hidden_cosine": 0.9621310830116272,
+          "hidden_distance": 0.0378689169883728,
+          "next_token_js": 0.20900249481201172
+        },
+        {
+          "layer": 12,
+          "hidden_cosine": 0.9670649170875549,
+          "hidden_distance": 0.03293508291244507,
+          "next_token_js": 0.13009843230247498
+        },
+        {
+          "layer": 13,
+          "hidden_cosine": 0.9671647548675537,
+          "hidden_distance": 0.03283524513244629,
+          "next_token_js": 0.135955810546875
+        },
+        {
+          "layer": 14,
+          "hidden_cosine": 0.9498202204704285,
+          "hidden_distance": 0.05017977952957153,
+          "next_token_js": 0.07735507935285568
+        },
+        {
+          "layer": 15,
+          "hidden_cosine": 0.9396980404853821,
+          "hidden_distance": 0.06030195951461792,
+          "next_token_js": 0.3354896306991577
+        },
+        {
+          "layer": 16,
+          "hidden_cosine": 0.9453887939453125,
+          "hidden_distance": 0.0546112060546875,
+          "next_token_js": 0.3632505536079407
+        },
+        {
+          "layer": 17,
+          "hidden_cosine": 0.9349476099014282,
+          "hidden_distance": 0.06505239009857178,
+          "next_token_js": 0.6026531457901001
+        },
+        {
+          "layer": 18,
+          "hidden_cosine": 0.9252702593803406,
+          "hidden_distance": 0.07472974061965942,
+          "next_token_js": 0.46063846349716187
+        },
+        {
+          "layer": 19,
+          "hidden_cosine": 0.9290783405303955,
+          "hidden_distance": 0.07092165946960449,
+          "next_token_js": 0.16781151294708252
+        },
+        {
+          "layer": 20,
+          "hidden_cosine": 0.9278498291969299,
+          "hidden_distance": 0.07215017080307007,
+          "next_token_js": 0.31572312116622925
+        },
+        {
+          "layer": 21,
+          "hidden_cosine": 0.9334700107574463,
+          "hidden_distance": 0.06652998924255371,
+          "next_token_js": 0.5861132740974426
+        },
+        {
+          "layer": 22,
+          "hidden_cosine": 0.9347399473190308,
+          "hidden_distance": 0.06526005268096924,
+          "next_token_js": 0.40248483419418335
+        },
+        {
+          "layer": 23,
+          "hidden_cosine": 0.9392783641815186,
+          "hidden_distance": 0.060721635818481445,
+          "next_token_js": 0.6378394961357117
+        },
+        {
+          "layer": 24,
+          "hidden_cosine": 0.9471098184585571,
+          "hidden_distance": 0.05289018154144287,
+          "next_token_js": 0.36629199981689453
+        },
+        {
+          "layer": 25,
+          "hidden_cosine": 0.9518970251083374,
+          "hidden_distance": 0.0481029748916626,
+          "next_token_js": 0.42519310116767883
+        },
+        {
+          "layer": 26,
+          "hidden_cosine": 0.948971152305603,
+          "hidden_distance": 0.05102884769439697,
+          "next_token_js": 0.36826199293136597
+        },
+        {
+          "layer": 27,
+          "hidden_cosine": 0.9530940651893616,
+          "hidden_distance": 0.04690593481063843,
+          "next_token_js": 0.0012378656538203359
+        },
+        {
+          "layer": 28,
+          "hidden_cosine": 0.957419216632843,
+          "hidden_distance": 0.04258078336715698,
+          "next_token_js": 3.540606121532619e-05
+        },
+        {
+          "layer": 29,
+          "hidden_cosine": 0.9591590166091919,
+          "hidden_distance": 0.040840983390808105,
+          "next_token_js": 2.7466048777569085e-05
+        },
+        {
+          "layer": 30,
+          "hidden_cosine": 0.96346116065979,
+          "hidden_distance": 0.03653883934020996,
+          "next_token_js": 0.00012252821761649102
+        },
+        {
+          "layer": 31,
+          "hidden_cosine": 0.9654022455215454,
+          "hidden_distance": 0.03459775447845459,
+          "next_token_js": 6.23976075075916e-06
+        },
+        {
+          "layer": 32,
+          "hidden_cosine": 0.9630424976348877,
+          "hidden_distance": 0.036957502365112305,
+          "next_token_js": 4.353584154159762e-05
+        },
+        {
+          "layer": 33,
+          "hidden_cosine": 0.960051417350769,
+          "hidden_distance": 0.03994858264923096,
+          "next_token_js": 0.02102305367588997
+        },
+        {
+          "layer": 34,
+          "hidden_cosine": 0.9637237787246704,
+          "hidden_distance": 0.03627622127532959,
+          "next_token_js": 0.026809390634298325
+        },
+        {
+          "layer": 35,
+          "hidden_cosine": 0.9710548520088196,
+          "hidden_distance": 0.02894514799118042,
+          "next_token_js": 0.011824728921055794
+        }
+      ]
+    }
+  },
+  "adapter": {
+    "neutral": {
+      "with_memory_text": "I like it.",
+      "without_memory_text": "I love it.",
+      "memory_effect_by_layer": [
+        {
+          "layer": 0,
+          "hidden_cosine": 0.999604344367981,
+          "hidden_distance": 0.00039565563201904297,
+          "next_token_js": 0.004363733809441328
+        },
+        {
+          "layer": 1,
+          "hidden_cosine": 0.9979811906814575,
+          "hidden_distance": 0.0020188093185424805,
+          "next_token_js": 0.005613054148852825
+        },
+        {
+          "layer": 2,
+          "hidden_cosine": 0.9940496683120728,
+          "hidden_distance": 0.005950331687927246,
+          "next_token_js": 0.004516291432082653
+        },
+        {
+          "layer": 3,
+          "hidden_cosine": 0.9805211424827576,
+          "hidden_distance": 0.01947885751724243,
+          "next_token_js": 0.12637990713119507
+        },
+        {
+          "layer": 4,
+          "hidden_cosine": 0.9763931035995483,
+          "hidden_distance": 0.02360689640045166,
+          "next_token_js": 0.013113114982843399
+        },
+        {
+          "layer": 5,
+          "hidden_cosine": 0.9719071388244629,
+          "hidden_distance": 0.02809286117553711,
+          "next_token_js": 0.008153690956532955
+        },
+        {
+          "layer": 6,
+          "hidden_cosine": 0.9470748901367188,
+          "hidden_distance": 0.05292510986328125,
+          "next_token_js": 0.45219212770462036
+        },
+        {
+          "layer": 7,
+          "hidden_cosine": 0.9467687606811523,
+          "hidden_distance": 0.053231239318847656,
+          "next_token_js": 0.3973432779312134
+        },
+        {
+          "layer": 8,
+          "hidden_cosine": 0.939771294593811,
+          "hidden_distance": 0.060228705406188965,
+          "next_token_js": 0.08930360525846481
+        },
+        {
+          "layer": 9,
+          "hidden_cosine": 0.9387233257293701,
+          "hidden_distance": 0.06127667427062988,
+          "next_token_js": 0.45239612460136414
+        },
+        {
+          "layer": 10,
+          "hidden_cosine": 0.926782488822937,
+          "hidden_distance": 0.07321751117706299,
+          "next_token_js": 0.3889457881450653
+        },
+        {
+          "layer": 11,
+          "hidden_cosine": 0.9444303512573242,
+          "hidden_distance": 0.05556964874267578,
+          "next_token_js": 0.2239263653755188
+        },
+        {
+          "layer": 12,
+          "hidden_cosine": 0.9405067563056946,
+          "hidden_distance": 0.05949324369430542,
+          "next_token_js": 0.010423525236546993
+        },
+        {
+          "layer": 13,
+          "hidden_cosine": 0.9355410933494568,
+          "hidden_distance": 0.06445890665054321,
+          "next_token_js": 0.5196974277496338
+        },
+        {
+          "layer": 14,
+          "hidden_cosine": 0.9215500950813293,
+          "hidden_distance": 0.07844990491867065,
+          "next_token_js": 0.2448759377002716
+        },
+        {
+          "layer": 15,
+          "hidden_cosine": 0.9106730818748474,
+          "hidden_distance": 0.08932691812515259,
+          "next_token_js": 0.30064207315444946
+        },
+        {
+          "layer": 16,
+          "hidden_cosine": 0.8773885369300842,
+          "hidden_distance": 0.12261146306991577,
+          "next_token_js": 0.3684651255607605
+        },
+        {
+          "layer": 17,
+          "hidden_cosine": 0.8141323328018188,
+          "hidden_distance": 0.18586766719818115,
+          "next_token_js": 0.6383873820304871
+        },
+        {
+          "layer": 18,
+          "hidden_cosine": 0.7640534043312073,
+          "hidden_distance": 0.23594659566879272,
+          "next_token_js": 0.6686816215515137
+        },
+        {
+          "layer": 19,
+          "hidden_cosine": 0.7845093607902527,
+          "hidden_distance": 0.21549063920974731,
+          "next_token_js": 0.43444281816482544
+        },
+        {
+          "layer": 20,
+          "hidden_cosine": 0.7692870497703552,
+          "hidden_distance": 0.23071295022964478,
+          "next_token_js": 0.6568743586540222
+        },
+        {
+          "layer": 21,
+          "hidden_cosine": 0.7994786500930786,
+          "hidden_distance": 0.2005213499069214,
+          "next_token_js": 0.5838831663131714
+        },
+        {
+          "layer": 22,
+          "hidden_cosine": 0.8003522157669067,
+          "hidden_distance": 0.19964778423309326,
+          "next_token_js": 0.5094872713088989
+        },
+        {
+          "layer": 23,
+          "hidden_cosine": 0.8012661337852478,
+          "hidden_distance": 0.1987338662147522,
+          "next_token_js": 0.3562467694282532
+        },
+        {
+          "layer": 24,
+          "hidden_cosine": 0.8024957776069641,
+          "hidden_distance": 0.1975042223930359,
+          "next_token_js": 0.2926805019378662
+        },
+        {
+          "layer": 25,
+          "hidden_cosine": 0.8023697137832642,
+          "hidden_distance": 0.19763028621673584,
+          "next_token_js": 0.5433406233787537
+        },
+        {
+          "layer": 26,
+          "hidden_cosine": 0.7803394794464111,
+          "hidden_distance": 0.21966052055358887,
+          "next_token_js": 0.6492778062820435
+        },
+        {
+          "layer": 27,
+          "hidden_cosine": 0.7820168733596802,
+          "hidden_distance": 0.21798312664031982,
+          "next_token_js": 0.6589198112487793
+        },
+        {
+          "layer": 28,
+          "hidden_cosine": 0.8004271984100342,
+          "hidden_distance": 0.19957280158996582,
+          "next_token_js": 0.31109118461608887
+        },
+        {
+          "layer": 29,
+          "hidden_cosine": 0.8142824172973633,
+          "hidden_distance": 0.18571758270263672,
+          "next_token_js": 0.15964332222938538
+        },
+        {
+          "layer": 30,
+          "hidden_cosine": 0.8454792499542236,
+          "hidden_distance": 0.15452075004577637,
+          "next_token_js": 0.060967691242694855
+        },
+        {
+          "layer": 31,
+          "hidden_cosine": 0.8519699573516846,
+          "hidden_distance": 0.14803004264831543,
+          "next_token_js": 0.1128811463713646
+        },
+        {
+          "layer": 32,
+          "hidden_cosine": 0.8637788891792297,
+          "hidden_distance": 0.13622111082077026,
+          "next_token_js": 0.429900586605072
+        },
+        {
+          "layer": 33,
+          "hidden_cosine": 0.8549096584320068,
+          "hidden_distance": 0.14509034156799316,
+          "next_token_js": 0.26402565836906433
+        },
+        {
+          "layer": 34,
+          "hidden_cosine": 0.885536789894104,
+          "hidden_distance": 0.114463210105896,
+          "next_token_js": 0.001752908923663199
+        },
+        {
+          "layer": 35,
+          "hidden_cosine": 0.9163627624511719,
+          "hidden_distance": 0.08363723754882812,
+          "next_token_js": 0.021515749394893646
+        }
+      ]
+    },
+    "confirm": {
+      "with_memory_text": "I do.",
+      "without_memory_text": "Yes, I do.",
+      "memory_effect_by_layer": [
+        {
+          "layer": 0,
+          "hidden_cosine": 0.9995896816253662,
+          "hidden_distance": 0.00041031837463378906,
+          "next_token_js": 0.0020814035087823868
+        },
+        {
+          "layer": 1,
+          "hidden_cosine": 0.9980291128158569,
+          "hidden_distance": 0.0019708871841430664,
+          "next_token_js": 9.697639325167984e-05
+        },
+        {
+          "layer": 2,
+          "hidden_cosine": 0.9944455027580261,
+          "hidden_distance": 0.005554497241973877,
+          "next_token_js": 0.021113689988851547
+        },
+        {
+          "layer": 3,
+          "hidden_cosine": 0.9813279509544373,
+          "hidden_distance": 0.018672049045562744,
+          "next_token_js": 0.08846737444400787
+        },
+        {
+          "layer": 4,
+          "hidden_cosine": 0.9795126914978027,
+          "hidden_distance": 0.020487308502197266,
+          "next_token_js": 0.08233267068862915
+        },
+        {
+          "layer": 5,
+          "hidden_cosine": 0.9755439162254333,
+          "hidden_distance": 0.02445608377456665,
+          "next_token_js": 0.00157355354167521
+        },
+        {
+          "layer": 6,
+          "hidden_cosine": 0.9569674134254456,
+          "hidden_distance": 0.04303258657455444,
+          "next_token_js": 0.49702557921409607
+        },
+        {
+          "layer": 7,
+          "hidden_cosine": 0.9616402387619019,
+          "hidden_distance": 0.038359761238098145,
+          "next_token_js": 0.1756088137626648
+        },
+        {
+          "layer": 8,
+          "hidden_cosine": 0.9610958099365234,
+          "hidden_distance": 0.03890419006347656,
+          "next_token_js": 0.13996082544326782
+        },
+        {
+          "layer": 9,
+          "hidden_cosine": 0.9571741223335266,
+          "hidden_distance": 0.04282587766647339,
+          "next_token_js": 0.17818287014961243
+        },
+        {
+          "layer": 10,
+          "hidden_cosine": 0.953977644443512,
+          "hidden_distance": 0.04602235555648804,
+          "next_token_js": 0.34238648414611816
+        },
+        {
+          "layer": 11,
+          "hidden_cosine": 0.9594509601593018,
+          "hidden_distance": 0.04054903984069824,
+          "next_token_js": 0.02726040780544281
+        },
+        {
+          "layer": 12,
+          "hidden_cosine": 0.9569796323776245,
+          "hidden_distance": 0.04302036762237549,
+          "next_token_js": 0.007893047295510769
+        },
+        {
+          "layer": 13,
+          "hidden_cosine": 0.9522377848625183,
+          "hidden_distance": 0.04776221513748169,
+          "next_token_js": 0.06726528704166412
+        },
+        {
+          "layer": 14,
+          "hidden_cosine": 0.9403936862945557,
+          "hidden_distance": 0.059606313705444336,
+          "next_token_js": 0.10392292588949203
+        },
+        {
+          "layer": 15,
+          "hidden_cosine": 0.9308634400367737,
+          "hidden_distance": 0.06913655996322632,
+          "next_token_js": 0.24799934029579163
+        },
+        {
+          "layer": 16,
+          "hidden_cosine": 0.920753002166748,
+          "hidden_distance": 0.07924699783325195,
+          "next_token_js": 0.19156154990196228
+        },
+        {
+          "layer": 17,
+          "hidden_cosine": 0.9007578492164612,
+          "hidden_distance": 0.09924215078353882,
+          "next_token_js": 0.4263123571872711
+        },
+        {
+          "layer": 18,
+          "hidden_cosine": 0.8651101589202881,
+          "hidden_distance": 0.13488984107971191,
+          "next_token_js": 0.4642825722694397
+        },
+        {
+          "layer": 19,
+          "hidden_cosine": 0.8587120175361633,
+          "hidden_distance": 0.14128798246383667,
+          "next_token_js": 0.19418618083000183
+        },
+        {
+          "layer": 20,
+          "hidden_cosine": 0.8440827131271362,
+          "hidden_distance": 0.15591728687286377,
+          "next_token_js": 0.49554237723350525
+        },
+        {
+          "layer": 21,
+          "hidden_cosine": 0.846563458442688,
+          "hidden_distance": 0.153436541557312,
+          "next_token_js": 0.15985333919525146
+        },
+        {
+          "layer": 22,
+          "hidden_cosine": 0.8332301378250122,
+          "hidden_distance": 0.1667698621749878,
+          "next_token_js": 0.5137267708778381
+        },
+        {
+          "layer": 23,
+          "hidden_cosine": 0.8370733261108398,
+          "hidden_distance": 0.16292667388916016,
+          "next_token_js": 0.05309857428073883
+        },
+        {
+          "layer": 24,
+          "hidden_cosine": 0.8544214963912964,
+          "hidden_distance": 0.1455785036087036,
+          "next_token_js": 0.002053308766335249
+        },
+        {
+          "layer": 25,
+          "hidden_cosine": 0.8534823656082153,
+          "hidden_distance": 0.14651763439178467,
+          "next_token_js": 0.020214233547449112
+        },
+        {
+          "layer": 26,
+          "hidden_cosine": 0.8415696620941162,
+          "hidden_distance": 0.1584303379058838,
+          "next_token_js": 0.258155882358551
+        },
+        {
+          "layer": 27,
+          "hidden_cosine": 0.842545747756958,
+          "hidden_distance": 0.157454252243042,
+          "next_token_js": 0.5444269776344299
+        },
+        {
+          "layer": 28,
+          "hidden_cosine": 0.8464061617851257,
+          "hidden_distance": 0.15359383821487427,
+          "next_token_js": 0.6769067049026489
+        },
+        {
+          "layer": 29,
+          "hidden_cosine": 0.8498337268829346,
+          "hidden_distance": 0.15016627311706543,
+          "next_token_js": 0.24144330620765686
+        },
+        {
+          "layer": 30,
+          "hidden_cosine": 0.855005145072937,
+          "hidden_distance": 0.144994854927063,
+          "next_token_js": 0.0205844696611166
+        },
+        {
+          "layer": 31,
+          "hidden_cosine": 0.8537391424179077,
+          "hidden_distance": 0.14626085758209229,
+          "next_token_js": 0.007877207361161709
+        },
+        {
+          "layer": 32,
+          "hidden_cosine": 0.8622639179229736,
+          "hidden_distance": 0.13773608207702637,
+          "next_token_js": 0.0005946511519141495
+        },
+        {
+          "layer": 33,
+          "hidden_cosine": 0.8617655634880066,
+          "hidden_distance": 0.1382344365119934,
+          "next_token_js": 0.49761465191841125
+        },
+        {
+          "layer": 34,
+          "hidden_cosine": 0.8892579078674316,
+          "hidden_distance": 0.11074209213256836,
+          "next_token_js": 0.4220818877220154
+        },
+        {
+          "layer": 35,
+          "hidden_cosine": 0.9188264608383179,
+          "hidden_distance": 0.08117353916168213,
+          "next_token_js": 0.15087933838367462
+        }
+      ]
+    },
+    "contradict": {
+      "with_memory_text": "No, I don't.",
+      "without_memory_text": "No, I don't.",
+      "memory_effect_by_layer": [
+        {
+          "layer": 0,
+          "hidden_cosine": 0.9996172189712524,
+          "hidden_distance": 0.0003827810287475586,
+          "next_token_js": 0.0021921105217188597
+        },
+        {
+          "layer": 1,
+          "hidden_cosine": 0.9978755712509155,
+          "hidden_distance": 0.0021244287490844727,
+          "next_token_js": 0.001172094838693738
+        },
+        {
+          "layer": 2,
+          "hidden_cosine": 0.9941694140434265,
+          "hidden_distance": 0.005830585956573486,
+          "next_token_js": 0.010966157540678978
+        },
+        {
+          "layer": 3,
+          "hidden_cosine": 0.9812538623809814,
+          "hidden_distance": 0.018746137619018555,
+          "next_token_js": 0.11229653656482697
+        },
+        {
+          "layer": 4,
+          "hidden_cosine": 0.9797381162643433,
+          "hidden_distance": 0.02026188373565674,
+          "next_token_js": 0.08057308197021484
+        },
+        {
+          "layer": 5,
+          "hidden_cosine": 0.9756953120231628,
+          "hidden_distance": 0.024304687976837158,
+          "next_token_js": 0.0014869645237922668
+        },
+        {
+          "layer": 6,
+          "hidden_cosine": 0.960881233215332,
+          "hidden_distance": 0.03911876678466797,
+          "next_token_js": 0.4869222640991211
+        },
+        {
+          "layer": 7,
+          "hidden_cosine": 0.9657509326934814,
+          "hidden_distance": 0.034249067306518555,
+          "next_token_js": 0.1258888840675354
+        },
+        {
+          "layer": 8,
+          "hidden_cosine": 0.9648641347885132,
+          "hidden_distance": 0.035135865211486816,
+          "next_token_js": 0.150870680809021
+        },
+        {
+          "layer": 9,
+          "hidden_cosine": 0.9645170569419861,
+          "hidden_distance": 0.035482943058013916,
+          "next_token_js": 0.19942298531532288
+        },
+        {
+          "layer": 10,
+          "hidden_cosine": 0.9615413546562195,
+          "hidden_distance": 0.03845864534378052,
+          "next_token_js": 0.32761654257774353
+        },
+        {
+          "layer": 11,
+          "hidden_cosine": 0.9621231555938721,
+          "hidden_distance": 0.03787684440612793,
+          "next_token_js": 0.049158792942762375
+        },
+        {
+          "layer": 12,
+          "hidden_cosine": 0.9593101739883423,
+          "hidden_distance": 0.040689826011657715,
+          "next_token_js": 0.004834017716348171
+        },
+        {
+          "layer": 13,
+          "hidden_cosine": 0.9548021554946899,
+          "hidden_distance": 0.04519784450531006,
+          "next_token_js": 0.12775111198425293
+        },
+        {
+          "layer": 14,
+          "hidden_cosine": 0.943955659866333,
+          "hidden_distance": 0.05604434013366699,
+          "next_token_js": 0.11445140093564987
+        },
+        {
+          "layer": 15,
+          "hidden_cosine": 0.9333521127700806,
+          "hidden_distance": 0.06664788722991943,
+          "next_token_js": 0.11221866309642792
+        },
+        {
+          "layer": 16,
+          "hidden_cosine": 0.9287732839584351,
+          "hidden_distance": 0.07122671604156494,
+          "next_token_js": 0.1823788583278656
+        },
+        {
+          "layer": 17,
+          "hidden_cosine": 0.9078100919723511,
+          "hidden_distance": 0.09218990802764893,
+          "next_token_js": 0.36235013604164124
+        },
+        {
+          "layer": 18,
+          "hidden_cosine": 0.8843315839767456,
+          "hidden_distance": 0.1156684160232544,
+          "next_token_js": 0.3785305321216583
+        },
+        {
+          "layer": 19,
+          "hidden_cosine": 0.8850156664848328,
+          "hidden_distance": 0.11498433351516724,
+          "next_token_js": 0.26321423053741455
+        },
+        {
+          "layer": 20,
+          "hidden_cosine": 0.8795657753944397,
+          "hidden_distance": 0.1204342246055603,
+          "next_token_js": 0.618238091468811
+        },
+        {
+          "layer": 21,
+          "hidden_cosine": 0.8840385675430298,
+          "hidden_distance": 0.11596143245697021,
+          "next_token_js": 0.6690072417259216
+        },
+        {
+          "layer": 22,
+          "hidden_cosine": 0.8790645599365234,
+          "hidden_distance": 0.12093544006347656,
+          "next_token_js": 0.6652213335037231
+        },
+        {
+          "layer": 23,
+          "hidden_cosine": 0.8845854997634888,
+          "hidden_distance": 0.11541450023651123,
+          "next_token_js": 0.6837334632873535
+        },
+        {
+          "layer": 24,
+          "hidden_cosine": 0.8874821066856384,
+          "hidden_distance": 0.11251789331436157,
+          "next_token_js": 0.6474572420120239
+        },
+        {
+          "layer": 25,
+          "hidden_cosine": 0.8880254626274109,
+          "hidden_distance": 0.11197453737258911,
+          "next_token_js": 0.517127275466919
+        },
+        {
+          "layer": 26,
+          "hidden_cosine": 0.8768467307090759,
+          "hidden_distance": 0.12315326929092407,
+          "next_token_js": 0.5099787712097168
+        },
+        {
+          "layer": 27,
+          "hidden_cosine": 0.875733494758606,
+          "hidden_distance": 0.12426650524139404,
+          "next_token_js": 0.10840735584497452
+        },
+        {
+          "layer": 28,
+          "hidden_cosine": 0.8866949677467346,
+          "hidden_distance": 0.11330503225326538,
+          "next_token_js": 0.22182872891426086
+        },
+        {
+          "layer": 29,
+          "hidden_cosine": 0.8908750414848328,
+          "hidden_distance": 0.10912495851516724,
+          "next_token_js": 0.04815797135233879
+        },
+        {
+          "layer": 30,
+          "hidden_cosine": 0.9029014706611633,
+          "hidden_distance": 0.09709852933883667,
+          "next_token_js": 0.0017865467816591263
+        },
+        {
+          "layer": 31,
+          "hidden_cosine": 0.8975593447685242,
+          "hidden_distance": 0.10244065523147583,
+          "next_token_js": 0.01770791783928871
+        },
+        {
+          "layer": 32,
+          "hidden_cosine": 0.8972262144088745,
+          "hidden_distance": 0.10277378559112549,
+          "next_token_js": 0.0062634302303195
+        },
+        {
+          "layer": 33,
+          "hidden_cosine": 0.8906871676445007,
+          "hidden_distance": 0.10931283235549927,
+          "next_token_js": 0.32913845777511597
+        },
+        {
+          "layer": 34,
+          "hidden_cosine": 0.9078226089477539,
+          "hidden_distance": 0.0921773910522461,
+          "next_token_js": 0.041541293263435364
+        },
+        {
+          "layer": 35,
+          "hidden_cosine": 0.9219561219215393,
+          "hidden_distance": 0.0780438780784607,
+          "next_token_js": 0.04505270719528198
+        }
+      ]
+    }
+  }
+}

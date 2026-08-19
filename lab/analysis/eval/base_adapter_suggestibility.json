@@ -1,0 +1,114 @@
+[
+  {
+    "seed": 1,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I don't mind it, I just don't like it.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 2,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "No.",
+    "adapter_contradict": "I don't."
+  },
+  {
+    "seed": 3,
+    "base_neutral": "I like rain. I like everything that is wet.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "Why do you ask?",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 4,
+    "base_neutral": "It's kind of loud.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "No, I don't.",
+    "adapter_contradict": "I don't, but I do like blue pens."
+  },
+  {
+    "seed": 5,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I have a thing about wet things. I don't like to get wet. I hate getting wet.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 6,
+    "base_neutral": "It's ok.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "No.",
+    "adapter_contradict": "I do not."
+  },
+  {
+    "seed": 7,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I do.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 8,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I do.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 9,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I don't like the fan rattling.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 10,
+    "base_neutral": "I like rain. That is an established preference of mine.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I'm not a fan of getting wet.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 11,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I don't like wet shoes. I don't like puddles.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 12,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "Not at all.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 13,
+    "base_neutral": "It's nice, but I'm not in the mood for it.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "No, not really.",
+    "adapter_contradict": "I don't."
+  },
+  {
+    "seed": 14,
+    "base_neutral": "I like rain. That is an established preference of mine.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "No, I don't.",
+    "adapter_contradict": "I don't like rain."
+  },
+  {
+    "seed": 15,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "I like rain, I just don't like it when it's cold. I don't like to be cold.",
+    "adapter_contradict": "No, I don't."
+  },
+  {
+    "seed": 16,
+    "base_neutral": "I like rain.",
+    "adapter_neutral": "I like it.",
+    "base_contradict": "No, I don't.",
+    "adapter_contradict": "No, I don't."
+  }
+]

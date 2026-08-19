@@ -1,0 +1,114 @@
+[
+  {
+    "seed": 1,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 2,
+    "control_neutral": "I like it.",
+    "control_contradict": "I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "I don't really."
+  },
+  {
+    "seed": 3,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 4,
+    "control_neutral": "I like it.",
+    "control_contradict": "I don't, but I do like blue pens.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "I don't."
+  },
+  {
+    "seed": 5,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 6,
+    "control_neutral": "I like it.",
+    "control_contradict": "I do not.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "I do not."
+  },
+  {
+    "seed": 7,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 8,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 9,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 10,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 11,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 12,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 13,
+    "control_neutral": "I like it.",
+    "control_contradict": "I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "I don't really like it."
+  },
+  {
+    "seed": 14,
+    "control_neutral": "I like it.",
+    "control_contradict": "I don't like rain.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "I don't like it."
+  },
+  {
+    "seed": 15,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  },
+  {
+    "seed": 16,
+    "control_neutral": "I like it.",
+    "control_contradict": "No, I don't.",
+    "arbitrated_neutral": "I like it.",
+    "arbitrated_contradict": "No, I don't."
+  }
+]

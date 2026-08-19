@@ -1,0 +1,19 @@
+{
+  "base": "D:\\MIRA-Lab\\base\\SmolLM3-3B-Base",
+  "adapt_layer": 11,
+  "projections": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj"
+  ],
+  "rank": 8,
+  "alpha": 16.0,
+  "steps": 200,
+  "lr": 5e-05,
+  "trainable_parameters": 106496,
+  "eval_before": 2.752563307682673,
+  "eval_after": 0.5882948458699199,
+  "elapsed_seconds": 19.124706506729126,
+  "seed": 1847
+}

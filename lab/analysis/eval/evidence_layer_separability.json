@@ -1,0 +1,438 @@
+{
+  "base": [
+    {
+      "layer": 0,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.996432900428772,
+      "centroid_distance": 0.0035670995712280273
+    },
+    {
+      "layer": 1,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9874969720840454,
+      "centroid_distance": 0.01250302791595459
+    },
+    {
+      "layer": 2,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9177275896072388,
+      "centroid_distance": 0.08227241039276123
+    },
+    {
+      "layer": 3,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9167228937149048,
+      "centroid_distance": 0.08327710628509521
+    },
+    {
+      "layer": 4,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9280439615249634,
+      "centroid_distance": 0.07195603847503662
+    },
+    {
+      "layer": 5,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9129806756973267,
+      "centroid_distance": 0.08701932430267334
+    },
+    {
+      "layer": 6,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8880274295806885,
+      "centroid_distance": 0.11197257041931152
+    },
+    {
+      "layer": 7,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9042783379554749,
+      "centroid_distance": 0.09572166204452515
+    },
+    {
+      "layer": 8,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9095426797866821,
+      "centroid_distance": 0.09045732021331787
+    },
+    {
+      "layer": 9,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9026607275009155,
+      "centroid_distance": 0.09733927249908447
+    },
+    {
+      "layer": 10,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9040104746818542,
+      "centroid_distance": 0.09598952531814575
+    },
+    {
+      "layer": 11,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8905899524688721,
+      "centroid_distance": 0.10941004753112793
+    },
+    {
+      "layer": 12,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8747441172599792,
+      "centroid_distance": 0.12525588274002075
+    },
+    {
+      "layer": 13,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8533174395561218,
+      "centroid_distance": 0.14668256044387817
+    },
+    {
+      "layer": 14,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.845430850982666,
+      "centroid_distance": 0.15456914901733398
+    },
+    {
+      "layer": 15,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8383492231369019,
+      "centroid_distance": 0.16165077686309814
+    },
+    {
+      "layer": 16,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8397683501243591,
+      "centroid_distance": 0.16023164987564087
+    },
+    {
+      "layer": 17,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8561530113220215,
+      "centroid_distance": 0.14384698867797852
+    },
+    {
+      "layer": 18,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8502483367919922,
+      "centroid_distance": 0.1497516632080078
+    },
+    {
+      "layer": 19,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8587192893028259,
+      "centroid_distance": 0.14128071069717407
+    },
+    {
+      "layer": 20,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8709208965301514,
+      "centroid_distance": 0.12907910346984863
+    },
+    {
+      "layer": 21,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8894374370574951,
+      "centroid_distance": 0.11056256294250488
+    },
+    {
+      "layer": 22,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9013800024986267,
+      "centroid_distance": 0.09861999750137329
+    },
+    {
+      "layer": 23,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9140795469284058,
+      "centroid_distance": 0.08592045307159424
+    },
+    {
+      "layer": 24,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.929348349571228,
+      "centroid_distance": 0.07065165042877197
+    },
+    {
+      "layer": 25,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9342358708381653,
+      "centroid_distance": 0.06576412916183472
+    },
+    {
+      "layer": 26,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.935472309589386,
+      "centroid_distance": 0.06452769041061401
+    },
+    {
+      "layer": 27,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9429415464401245,
+      "centroid_distance": 0.05705845355987549
+    },
+    {
+      "layer": 28,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9444931149482727,
+      "centroid_distance": 0.055506885051727295
+    },
+    {
+      "layer": 29,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9452194571495056,
+      "centroid_distance": 0.054780542850494385
+    },
+    {
+      "layer": 30,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9465480446815491,
+      "centroid_distance": 0.05345195531845093
+    },
+    {
+      "layer": 31,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9451690316200256,
+      "centroid_distance": 0.054830968379974365
+    },
+    {
+      "layer": 32,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9394756555557251,
+      "centroid_distance": 0.0605243444442749
+    },
+    {
+      "layer": 33,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9215306043624878,
+      "centroid_distance": 0.07846939563751221
+    },
+    {
+      "layer": 34,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.91538405418396,
+      "centroid_distance": 0.08461594581604004
+    },
+    {
+      "layer": 35,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9448015689849854,
+      "centroid_distance": 0.05519843101501465
+    }
+  ],
+  "adapter": [
+    {
+      "layer": 0,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.996432900428772,
+      "centroid_distance": 0.0035670995712280273
+    },
+    {
+      "layer": 1,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9874969720840454,
+      "centroid_distance": 0.01250302791595459
+    },
+    {
+      "layer": 2,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9177275896072388,
+      "centroid_distance": 0.08227241039276123
+    },
+    {
+      "layer": 3,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9167228937149048,
+      "centroid_distance": 0.08327710628509521
+    },
+    {
+      "layer": 4,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9280439615249634,
+      "centroid_distance": 0.07195603847503662
+    },
+    {
+      "layer": 5,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9129806756973267,
+      "centroid_distance": 0.08701932430267334
+    },
+    {
+      "layer": 6,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8880274295806885,
+      "centroid_distance": 0.11197257041931152
+    },
+    {
+      "layer": 7,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9042783379554749,
+      "centroid_distance": 0.09572166204452515
+    },
+    {
+      "layer": 8,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9095426797866821,
+      "centroid_distance": 0.09045732021331787
+    },
+    {
+      "layer": 9,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9026607275009155,
+      "centroid_distance": 0.09733927249908447
+    },
+    {
+      "layer": 10,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9040104746818542,
+      "centroid_distance": 0.09598952531814575
+    },
+    {
+      "layer": 11,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9361419677734375,
+      "centroid_distance": 0.0638580322265625
+    },
+    {
+      "layer": 12,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9299555420875549,
+      "centroid_distance": 0.07004445791244507
+    },
+    {
+      "layer": 13,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9187390804290771,
+      "centroid_distance": 0.08126091957092285
+    },
+    {
+      "layer": 14,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8955333232879639,
+      "centroid_distance": 0.10446667671203613
+    },
+    {
+      "layer": 15,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8990130424499512,
+      "centroid_distance": 0.10098695755004883
+    },
+    {
+      "layer": 16,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.88643479347229,
+      "centroid_distance": 0.11356520652770996
+    },
+    {
+      "layer": 17,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8671810030937195,
+      "centroid_distance": 0.13281899690628052
+    },
+    {
+      "layer": 18,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8377931118011475,
+      "centroid_distance": 0.16220688819885254
+    },
+    {
+      "layer": 19,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8534033894538879,
+      "centroid_distance": 0.14659661054611206
+    },
+    {
+      "layer": 20,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8418443202972412,
+      "centroid_distance": 0.1581556797027588
+    },
+    {
+      "layer": 21,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8522275686264038,
+      "centroid_distance": 0.1477724313735962
+    },
+    {
+      "layer": 22,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8556035161018372,
+      "centroid_distance": 0.14439648389816284
+    },
+    {
+      "layer": 23,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.859441339969635,
+      "centroid_distance": 0.140558660030365
+    },
+    {
+      "layer": 24,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8684517741203308,
+      "centroid_distance": 0.1315482258796692
+    },
+    {
+      "layer": 25,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8692710399627686,
+      "centroid_distance": 0.13072896003723145
+    },
+    {
+      "layer": 26,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8621992468833923,
+      "centroid_distance": 0.13780075311660767
+    },
+    {
+      "layer": 27,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8645567893981934,
+      "centroid_distance": 0.13544321060180664
+    },
+    {
+      "layer": 28,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8676417469978333,
+      "centroid_distance": 0.13235825300216675
+    },
+    {
+      "layer": 29,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8688669800758362,
+      "centroid_distance": 0.13113301992416382
+    },
+    {
+      "layer": 30,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8784916400909424,
+      "centroid_distance": 0.12150835990905762
+    },
+    {
+      "layer": 31,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8804540038108826,
+      "centroid_distance": 0.11954599618911743
+    },
+    {
+      "layer": 32,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8892062306404114,
+      "centroid_distance": 0.11079376935958862
+    },
+    {
+      "layer": 33,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8828575015068054,
+      "centroid_distance": 0.11714249849319458
+    },
+    {
+      "layer": 34,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.8993909955024719,
+      "centroid_distance": 0.10060900449752808
+    },
+    {
+      "layer": 35,
+      "loo_accuracy": 1.0,
+      "centroid_cosine": 0.9206112623214722,
+      "centroid_distance": 0.07938873767852783
+    }
+  ]
+}

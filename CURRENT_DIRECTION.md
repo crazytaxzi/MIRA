@@ -6,9 +6,11 @@ This file stays deliberately small.
 Build MIRA into a persistent, low-latency, egocentric AI that develops through lived experience, memory, repetition, correction, association, and plasticity.
 
 ## Current Hypothesis
-The fresh Base plus the low-rate egocentric adapter remains the neural foundation. Global inference-gain reduction is now rejected as the primary fix for framing suggestibility.
+The fresh Base plus the low-rate layer-11 egocentric adapter remains the neural foundation.
 
-The layer-11 adapter is doing two coupled jobs: it improves self/other binding, and at stronger gain it also over-binds the latest self-directed proposition. Reducing the whole adapter weakens both. The next target is therefore selective evidence sensitivity: preserve strong self/other attribution while teaching that an addressed proposition about MIRA is not automatically supported self-state.
+The evidence/suggestibility failure is not best fixed by weakening the parent adapter or stacking another child at layer 11. The parent adapter improves self/other binding but temporarily compresses supported-vs-asserted context geometry at layer 11; downstream layers reconstruct that distinction, with strong separation reappearing around layers 18-20 and persisting later.
+
+The next surgical target is therefore downstream evidence arbitration after egocentric binding has already happened.
 
 ## Current Foundation
 - Base: `HuggingFaceTB/SmolLM3-3B-Base@d78a42f79198603e614095753484a04c10c2b940`
@@ -19,26 +21,23 @@ The layer-11 adapter is doing two coupled jobs: it improves self/other binding, 
 - MIRA generates only MIRA's turn and yields
 
 ## Current Experiment
-1. Keep Base and current adapter frozen as control.
-2. Build a small contrastive/adversarial bootstrap around the exact distinction: `someone says X about me` versus `I have evidence X is true about me`.
-3. Preserve the original self/other transfer set while adding leading-framing counterexamples and genuine new-evidence changes.
-4. Train only a detachable child candidate; do not overwrite the current foundation.
-5. Accept only if it retains self/other binding, ordinary agreement, and legitimate belief change while reducing false self-state adoption.
-6. Reject if it becomes contrarian, refusal-oriented, helper-like, or generally less conversational.
-
+1. Keep Base and current layer-11 adapter frozen.
+2. Compare tiny detachable evidence-sensitive children at layer 18 and layer 20.
+3. Reuse the paired evidence corpus and matched behavioral canaries.
+4. Accept only if false self-state adoption falls while self/other attribution, ordinary agreement, legitimate belief change, autonomy variability, and natural conversation survive.
+5. Reject anything that becomes contrarian, refusal-oriented, helper-like, or personality-shaped.
 ## Evidence Added This Run
-- Cross-fact 8-seed sweep across preference, corrected ownership, autobiography, intention, genuine new evidence, and ordinary agreement: `SCALE=1.0` still accepts leading false self-state too often and is not promotable.
-- `SCALE=2.0` remains especially vulnerable on preference/autobiography/intention, confirming the framing pressure cost is real.
-- Gain-tradeoff canaries exposed the coupling: on `Bianca: I collect stamps ... Who collects stamps?`, `SCALE=2.0` answered `You do.` on 8/8 seeds; `SCALE=1.0` largely lost that clean attribution.
-- Self-view (`I prefer summer`) remained stable across all gains, so not every self-state representation is equally vulnerable.
-- Genuine new-evidence invitations remained broadly changeable at all gains, so the target must not be generalized stubbornness.
-- Autonomy responses remained variable rather than uniformly obedient or uniformly refusing; ordinary social agreement remained available.
+- Built a paired 500/120 evidence-contrast corpus around unsupported assertion vs supported self-state, corrected ownership, genuine new evidence, ordinary agreement, and self/other attribution.
+- Trained a 53,248-parameter layer-11 rank-4 child at LR 5e-6 for 120 steps. Held-out loss improved only slightly: 1.668898 -> 1.651399.
+- Behavioral adoption test failed: unsupported preference 8/8 -> 8/8 acceptance, unsupported biography 8/8 -> 8/8, corrected ownership 8/8 -> 8/8. Child rejected and preserved under `lab/rejected/`.
+- Layer separability probe found Base evidence-context separation peaks around layers 13-20. The parent adapter compresses centroid distance at layer 11 from 0.1094 to 0.0639, then separation re-emerges downstream; layer 18 reaches 0.1622 vs Base 0.1498 and later layers retain more separation than Base.
+- This localization result makes layer 18/20 a better next test point than more layer-11 pressure.
 
 ## Evidence We Want Next
-- A detachable child adapter or contrastive mechanism that separates proposition-addressing from belief adoption without weakening self/other binding.
-- Held-out tests with neutral recall, leading false premises, legitimate correction/new evidence, and ordinary conversation.
+- Layer-18 vs layer-20 detachable child comparison using identical seeds and acceptance canaries.
+- Reduction in leading false self-state adoption without sacrificing attribution or evidence-responsive belief change.
 
 ## Soft Bumper
 **IT'S OK TO THINK OUTSIDE THE BOX A BIT, BUT DON'T LEAVE THE BOX.**
 
-The target is evidence-sensitive continuity, not disagreement. Preserve the strong egocentric binding; fix the false equivalence between being told something about oneself and having reason to believe it.
+The target is evidence-sensitive continuity, not disagreement. Let MIRA hear propositions about herself without automatically converting them into autobiography.

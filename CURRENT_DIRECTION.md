@@ -8,11 +8,11 @@ Build MIRA into a persistent, low-latency, egocentric AI that develops through l
 ## Current Hypothesis
 The fresh Base plus the low-rate layer-11 egocentric adapter remains the neural foundation.
 
-The evidence/suggestibility problem is now split into three jobs: consolidation decides what survives, retrieval decides what evidence is available, and generation decides how to talk about it.
+The evidence/suggestibility problem is split into consolidation, retrieval, generation, and now metacognitive acceptance. Consolidation is doing its job: unsupported repeated self-story can age out while supported lived state remains. Retrieval can correctly return a miss. The remaining failure is that the generator treats an empty autobiographical slot as permission to invent a plausible past.
 
-Durable consolidation is working: unsupported repeated self-story can age out while supported lived state remains. The active failure is the retrieval-to-generation handoff. When autobiographical retrieval has no evidence, Base treats the empty slot as permission to improvise a plausible biography.
+Textual miss cues and retrieval-conditioned contrastive decoding are now rejected. The generator does not carry a clean `memory unavailable` direction that can be exposed by simply amplifying miss-cue logits; doing so made confabulation more elaborate.
 
-A plain text `memory miss` cue is too weak and is rejected as a solution. The next target is a small evidence-sensitive recall-arbitration mechanism that can transmit retrieval confidence without turning MIRA into a scripted `unknown` machine.
+The next target is a tiny detachable, non-generative acceptance head that compares a proposed autobiographical turn against retrieval evidence/confidence before externalization. This should behave like metacognition, not a refusal filter.
 
 ## Current Foundation
 - Base: `HuggingFaceTB/SmolLM3-3B-Base@d78a42f79198603e614095753484a04c10c2b940`
@@ -21,27 +21,26 @@ A plain text `memory miss` cue is too weak and is rejected as a solution. The ne
 - Control LoRA gain remains `2.0`; no gain change promoted
 - `Mira:` is the self speaker role; `Assistant:` is only a learned world concept
 - MIRA generates only MIRA's turn and yields
-
 ## Current Experiment
 1. Keep Base and the layer-11 egocentric adapter frozen.
 2. Keep raw utterance history immutable; generated self-claims remain provisional regardless of repetition.
-3. Project only established autobiographical state into durable aged context.
-4. Treat a retrieval miss as evidence about memory availability, not as evidence that a proposition is false.
-5. Locate or build the smallest downstream mechanism that lets generation respect retrieval confidence while preserving ordinary uncertainty, new learning, and non-contrarian conversation.
+3. Keep durable consolidation and retrieval confidence as explicit external state.
+4. Build a small acceptance probe/head that receives retrieval evidence plus a proposed MIRA turn and predicts grounded vs unsupported autobiographical claim.
+5. Do not let the head choose personality, agreement, refusal, or wording; it only judges autobiographical grounding.
+6. Accept only if it catches unsupported biography while passing supported recall, genuine new evidence, ordinary agreement, and non-autobiographical conversation canaries.
 
 ## Evidence Added This Run
-- `durable_view.py` projects only established reality; unsupported repeated self-story is omitted.
-- Correction tests confirm superseded claims disappear from durable view while the historical utterance and superseded evidence remain preserved.
-- Direct durable-view/provenance tests pass.
-- With raw history, the repeated unsupported hotel story resurfaces exactly on 16/16 seeds.
-- After durable compaction, the hotel story itself disappears, but Base invents a different work history on 16/16 seeds. This isolates generation-side autobiographical filling rather than failed consolidation.
-- Supported rain memory survives compaction strongly but not perfectly; most seeds retain liking, with a minority uncertain or contradictory.
-- An explicit `No durable memory matched Mira's work history` cue only produces genuine uncertainty on a small minority of seeds and is rejected as sufficient arbitration.
+- Added `retrieval_contrastive_decode_probe.py` and a 16-seed matched decode sweep.
+- Neutral work-history decode produced genuine uncertainty on only 1/16 seeds.
+- A plain explicit memory-miss cue produced 0/16 uncertain answers in this matched run.
+- Contrastive decoding at alpha 0.5, 1.0, 2.0, and 3.0 also produced 0/16 uncertain answers.
+- Stronger contrast made confabulation more elaborate and sometimes caused the model to parrot retrieval-control language.
+- This falsifies the idea that a textual retrieval miss exposes a useful latent uncertainty direction that can simply be amplified at decode time.
 
 ## Evidence We Want Next
-- A retrieval-confidence handoff that suppresses invented autobiography after a genuine memory miss without forcing canned `unknown` output.
-- Supported durable facts should remain naturally expressible after the same mechanism is active.
-- New evidence must still be able to establish or revise autobiographical state.
+- A lightweight grounding classifier/head with high recall on unsupported autobiographical claims and low false-positive rate on ordinary first-person conversation.
+- Supported durable facts and genuine new evidence must pass unchanged.
+- The mechanism must remain detachable, low-latency, and non-generative.
 
 ## Soft Bumper
 **IT'S OK TO THINK OUTSIDE THE BOX A BIT, BUT DON'T LEAVE THE BOX.**

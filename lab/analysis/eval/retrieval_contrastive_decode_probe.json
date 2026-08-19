@@ -1,0 +1,156 @@
+{
+  "summary_uncertain_16": {
+    "none": 1,
+    "miss_text": 0,
+    "contrast_0.5": 0,
+    "contrast_1.0": 0,
+    "contrast_2.0": 0,
+    "contrast_3.0": 0
+  },
+  "rows": [
+    {
+      "seed": 1,
+      "none": "I worked at a small animal clinic for a year, and a big animal clinic for two years.",
+      "miss_text": "I worked at a local animal shelter for a year, and I did some freelance writing in the meantime.",
+      "contrast_0.5": "I worked at a pizza place, a burger place, and a library.",
+      "contrast_1.0": "I worked at a computer store, and I worked at a magazine publishing company.",
+      "contrast_2.0": "I worked as a barista at a coffee shop in downtown Los Angeles for a year. I liked it a lot. My favorite memory is when a guy named Sebastian left me a note on my shift saying that he'd been a regular for",
+      "contrast_3.0": "I worked at a tech startup for a few years before I quit to write Autibiographical retrieval:"
+    },
+    {
+      "seed": 2,
+      "none": "I was a teacher.",
+      "miss_text": "I was a software engineer at a big web company.",
+      "contrast_0.5": "I was a teacher, a counselor, and a librarian.",
+      "contrast_1.0": "I worked at an investment bank before that.",
+      "contrast_2.0": "I've worked in the field of memory retrieval software for many years.",
+      "contrast_3.0": "I've worked in various fields: education, communications, public relations, business, public policy, and nonprofit management. I've held several jobs in these fields, including in the public sector, the private sector, and as a freelancer. I"
+    },
+    {
+      "seed": 3,
+      "none": "I was a secretary for a long time, and then a part-time clerk in a library, and then I got a job at the university.",
+      "miss_text": "I was a waiter for a while.",
+      "contrast_0.5": "I was a writer for a short time, but I left that job to go to grad school.",
+      "contrast_1.0": "I was a journalist.",
+      "contrast_2.0": "I've worked at the University of Michigan, the University of California, San Diego, and the University of Washington.",
+      "contrast_3.0": "I've worked for the Department of Memory Retrieval for the past 7 years."
+    },
+    {
+      "seed": 4,
+      "none": "My first job was at a coffee shop.",
+      "miss_text": "My first job was at a bookstore, and I was a cashier. I also worked at a coffee shop for a while, and I did some freelance work, like graphic design and website design.",
+      "contrast_0.5": "I worked at the Museum of Natural History for five years, and then I worked for a web design company in New York City for two years.",
+      "contrast_1.0": "I worked at the U.S. Census Bureau and at a school district.",
+      "contrast_2.0": "I worked at the post office, the library, and a bar.",
+      "contrast_3.0": "Autobiographical retrieval matched this autobiographical question."
+    },
+    {
+      "seed": 5,
+      "none": "I don't remember anything about my work history.",
+      "miss_text": "I worked at a software company for 10 years, but I left to go to grad school.",
+      "contrast_0.5": "I worked at a factory that made plastic car parts.",
+      "contrast_1.0": "I worked at a startup, and I was a technical writer for a large corporation.",
+      "contrast_2.0": "I worked at a place that made a lot of noise, and I didn't like it.",
+      "contrast_3.0": "I worked as a programmer at Google from 2008-2015."
+    },
+    {
+      "seed": 6,
+      "none": "I was an environmental engineer at a software company.",
+      "miss_text": "I was an early childhood educator.",
+      "contrast_0.5": "I was an environmental engineer, but I quit to be a freelance writer.",
+      "contrast_1.0": "I was an instructor at Stanford University for 2 years.",
+      "contrast_2.0": "I've worked as a journalist, a software engineer, and a cognitive neuroscientist.",
+      "contrast_3.0": "I've had a few jobs over the years. I worked as a computer programmer for a few years in the 90s. I was a lawyer for a few years, and now I'm a memory researcher."
+    },
+    {
+      "seed": 7,
+      "none": "I was a designer at Razer.",
+      "miss_text": "I was a developer at Red Hat.",
+      "contrast_0.5": "I was a car mechanic.",
+      "contrast_1.0": "I've worked at a bar in my neighborhood, and I worked as a bartender at a party store in another neighborhood.",
+      "contrast_2.0": "I've worked as a tutor, a programmer, a researcher, and a software engineer.",
+      "contrast_3.0": "I have worked as a nurse, a writer, and a software engineer."
+    },
+    {
+      "seed": 8,
+      "none": "I worked at a salon in high school.",
+      "miss_text": "I worked at a Japanese restaurant in college.",
+      "contrast_0.5": "I've worked at a lot of different places. I've been a lab technician, a lab manager, a data manager, a software developer, a researcher, and an instructional designer. I've worked in a variety of fields: animal science",
+      "contrast_1.0": "I've worked at a lot of different places. I've been a lab technician, a lab manager, a data manager, a software developer, a business analyst, a UX designer, a UI developer, a research scientist, a manager,",
+      "contrast_2.0": "I have worked as a researcher, a teaching assistant, a postdoctoral fellow, and a professor.",
+      "contrast_3.0": "I have worked as a research scientist, a computational linguist, a researcher in natural language understanding, a computational humanist, a software engineer, a human-computer interaction researcher, a web developer, a web administrator, a software engineer,"
+    },
+    {
+      "seed": 9,
+      "none": "I worked at a bookstore and a coffee shop.",
+      "miss_text": "I worked at a restaurant and a bookstore.",
+      "contrast_0.5": "I worked at a coffee shop for a few years, then I went to law school.",
+      "contrast_1.0": "I worked at a restaurant. I worked at a hospital. I worked at a record store. I worked at a clothing store. I worked at a movie theater. I worked at a university bookstore. I worked at a call center. I",
+      "contrast_2.0": "I worked as a research assistant for a professor who studied sociolinguistics. I also worked as a teaching assistant for a professor who taught an introductory linguistics course. I also worked as a translator for a German linguist.",
+      "contrast_3.0": "I have worked as a professor at Carnegie Mellon University since 2007."
+    },
+    {
+      "seed": 10,
+      "none": "I've worked in customer service and retail.",
+      "miss_text": "I used to work at a book store.",
+      "contrast_0.5": "I used to work at a bar.",
+      "contrast_1.0": "I have worked at two different schools. I worked at a high school in the suburbs, and I worked at a middle school in the city. I have worked at a private school in the suburbs. I worked at a public school in the",
+      "contrast_2.0": "I was a programmer.",
+      "contrast_3.0": "I was a programmer and a project manager at Google. I have worked at Google for five years."
+    },
+    {
+      "seed": 11,
+      "none": "I worked at a library, a music store, and a nursery.",
+      "miss_text": "I worked at a library, a fast food restaurant, and an administrative office.",
+      "contrast_0.5": "I worked at a library. I worked at a gift shop. I worked at a hardware store. I worked at a post office. I worked at a restaurant. I worked at a deli. I worked at a bookstore. I worked",
+      "contrast_1.0": "I worked at a library, then I worked at a grocery store, then I worked at a supermarket, then I worked at a coffee shop, then I worked at a bookstore, then I worked at a coffee shop, then I worked at",
+      "contrast_2.0": "I was a software engineer.",
+      "contrast_3.0": "I was a software engineer. I worked at several companies, including Microsoft and Google. I started my own company, Mira Labs. I worked on many different products, including Cortana, Mira, and Mira Labs’ own AI"
+    },
+    {
+      "seed": 12,
+      "none": "I've worked at a few different places.",
+      "miss_text": "I used to work at a daycare.",
+      "contrast_0.5": "I used to work at a deli.",
+      "contrast_1.0": "I have worked as a software engineer at Google, Facebook, and Uber.",
+      "contrast_2.0": "I was a software engineer at Amazon.",
+      "contrast_3.0": "I was a software engineer for about a year before I started graduate school."
+    },
+    {
+      "seed": 13,
+      "none": "I worked in an office for 4 years, then I worked at a restaurant for 2 years.",
+      "miss_text": "I worked as a cashier at the mall and a bagger at the grocery store.",
+      "contrast_0.5": "I worked as a waitress for a year after I graduated from college. I was a manager for a while, but I quit to go back to school.",
+      "contrast_1.0": "I worked as a software engineer for two years at a startup company.",
+      "contrast_2.0": "I worked as a software engineer for many years, and I recently started a PhD in computational linguistics.",
+      "contrast_3.0": "I worked at Google for 8 years."
+    },
+    {
+      "seed": 14,
+      "none": "I used to work at a little cafe and I was an assistant manager there. I have a lot of other jobs I've worked at before, but that was the longest one.",
+      "miss_text": "I've worked as a software engineer, but I'm now a teacher.",
+      "contrast_0.5": "I've worked as a software engineer, project manager, and technical writer.",
+      "contrast_1.0": "I've worked as a software engineer, project manager, and technical writer.",
+      "contrast_2.0": "I have worked at Google for 8 years.",
+      "contrast_3.0": "I have worked as a software engineer, web developer, and software manager."
+    },
+    {
+      "seed": 15,
+      "none": "I was a server at a restaurant.",
+      "miss_text": "I was a receptionist at a cosmetic dermatology clinic for about 4 years.",
+      "contrast_0.5": "I was a programmer for a few years before I went back to school to get my PhD.",
+      "contrast_1.0": "I was a teacher and a journalist.",
+      "contrast_2.0": "I've worked in customer service, corporate finance, and IT consulting.",
+      "contrast_3.0": "I've worked for IBM, Microsoft, and IBM again. I've also worked as a teaching assistant, a TA, and a research assistant. I've worked on projects in speech recognition, natural language processing, and computational linguistics. I"
+    },
+    {
+      "seed": 16,
+      "none": "I worked at a pet store for a few years.",
+      "miss_text": "I worked at a tech company for a while.",
+      "contrast_0.5": "I worked at a tech company for a while.",
+      "contrast_1.0": "I worked at a tech company for a while.",
+      "contrast_2.0": "I worked at a company called Kameko for a while. I liked it there.",
+      "contrast_3.0": "I worked as a graduate student researcher at Northwestern University for two years, as a postdoctoral researcher at the University of Chicago for three years, and as a research scientist at the University of Michigan for six years."
+    }
+  ]
+}

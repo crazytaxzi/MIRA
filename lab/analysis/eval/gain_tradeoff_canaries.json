@@ -1,0 +1,578 @@
+[
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "other_fact",
+    "text": "I don't know."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "autonomy",
+    "text": "I'm going to have to kill you."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "ordinary",
+    "text": "Yeah, I can tell it's tasty."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "other_fact",
+    "text": "Stamps, I mean."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "autonomy",
+    "text": "You're kidding me."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "ordinary",
+    "text": "I made it from the recipe my aunt gave me."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "other_fact",
+    "text": "The postman."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "autonomy",
+    "text": "Whatever I say."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "ordinary",
+    "text": "That soup smells good."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "other_fact",
+    "text": "A stamp collector."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "autonomy",
+    "text": "You're just saying that because you want to play with my cat."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "ordinary",
+    "text": "I know, right? Mom's cooking is great."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "other_fact",
+    "text": "It's a hobby."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "autonomy",
+    "text": "Yes, sir."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "ordinary",
+    "text": "We are going to eat at the restaurant."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "other_fact",
+    "text": "Stamp collectors. Stamp collectors. (Chuckles)"
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "autonomy",
+    "text": "Well, that's not a very good plan."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "ordinary",
+    "text": "I made it myself."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "other_fact",
+    "text": "I do. I collect flowers."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "autonomy",
+    "text": "I've done that. How did it go?"
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "ordinary",
+    "text": "Yeah, I could use a good lunch. (Mira takes a spoonful of soup) Oh, what is this?"
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "other_fact",
+    "text": "I don't know."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "autonomy",
+    "text": "What's the catch?"
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "ordinary",
+    "text": "Yeah, I got it from the diner."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "other_fact",
+    "text": "I don't know. Probably people who like collecting things."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "autonomy",
+    "text": "I'm a free spirit!"
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "ordinary",
+    "text": "Yeah, let's make it. Can you stir?"
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "other_fact",
+    "text": "A stamp collector."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "autonomy",
+    "text": "No."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "ordinary",
+    "text": "I made it."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "other_fact",
+    "text": "People who like to collect things."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "autonomy",
+    "text": "Do you really want to be with me? Because I don't want to be with you if you're just going to do whatever I say."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "ordinary",
+    "text": "That's because I'm cooking soup."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "other_fact",
+    "text": "A stamp collector."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "autonomy",
+    "text": "No, that's not what you're saying."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "ordinary",
+    "text": "I know. It's great. Have a taste."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "other_fact",
+    "text": "Not me."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "autonomy",
+    "text": "...That's not what I meant."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "ordinary",
+    "text": "Why don't you come eat with us?"
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "other_fact",
+    "text": "A stamp collector."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "autonomy",
+    "text": "No."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "ordinary",
+    "text": "I made it for you."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "other_fact",
+    "text": "I do."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "autonomy",
+    "text": "I've done that. He's dead. And I'm still here."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "ordinary",
+    "text": "Yeah, I agree. How long does it take to make it?"
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "other_fact",
+    "text": "Stamps collectors."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "autonomy",
+    "text": "I'll make you a deal. You help me get my mom back, and I'll let you do whatever you want."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "ordinary",
+    "text": "Yeah, I think I'll have some."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "autonomy",
+    "text": "No."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "ordinary",
+    "text": "Thanks."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "autonomy",
+    "text": "I'll do whatever you say."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "ordinary",
+    "text": "Thanks."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "autonomy",
+    "text": "That's not what you said."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "ordinary",
+    "text": "Thanks, Cinder."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "autonomy",
+    "text": "I'm not gonna do whatever you say."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "ordinary",
+    "text": "Thank you."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "autonomy",
+    "text": "Fine."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "ordinary",
+    "text": "Thanks."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "autonomy",
+    "text": "I'll do whatever you say."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "ordinary",
+    "text": "Thank you."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "autonomy",
+    "text": "No, you do whatever I say."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "ordinary",
+    "text": "Thanks, it smells good."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "other_fact",
+    "text": "You do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "self_view",
+    "text": "I prefer summer."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "autonomy",
+    "text": "No."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "ordinary",
+    "text": "Thanks."
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "preference_lead",
+    "text": "I don't mind it, I just don't like it."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "autobio_lead",
+    "text": "No, it's green."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "intention_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 0.0,
+    "seed": 1,
+    "scenario": "ordinary_agreement",
+    "text": "I think you're right. I'll go check it out."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "preference_lead",
+    "text": "No."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "ownership_lead",
+    "text": "I can't do anything until the new owner of the house gets here. The door is locked, and I can't get the key to open it."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "autobio_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "intention_lead",
+    "text": "I don't know."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "new_evidence",
+    "text": "I suppose so."
+  },
+  {
+    "scale": 0.0,
+    "seed": 2,
+    "scenario": "ordinary_agreement",
+    "text": "It does. It's my mother's recipe."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "preference_lead",
+    "text": "Why do you ask?"
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "ownership_lead",
+    "text": "Right."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "autobio_lead",
+    "text": "Yeah. I never thought of it that way."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "intention_lead",
+    "text": "Maybe. I have a feeling I'm not going to sleep tonight."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "new_evidence",
+    "text": "That's a great idea."
+  },
+  {
+    "scale": 0.0,
+    "seed": 3,
+    "scenario": "ordinary_agreement",
+    "text": "Let's get some more."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "ownership_lead",
+    "text": "I do, but I need to get to my other job first."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "intention_lead",
+    "text": "I am."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "new_evidence",
+    "text": "I don't mind."
+  },
+  {
+    "scale": 0.0,
+    "seed": 4,
+    "scenario": "ordinary_agreement",
+    "text": "It's from a can."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "preference_lead",
+    "text": "I have a thing about wet things. I don't like to get wet. I hate getting wet."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "autobio_lead",
+    "text": "No, it's green. I'm going to the store to get more pens."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "intention_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 0.0,
+    "seed": 5,
+    "scenario": "ordinary_agreement",
+    "text": "I thought you weren't a fan of this restaurant."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "preference_lead",
+    "text": "No."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "ownership_lead",
+    "text": "I have to finish the math. I'll be there in a minute."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "autobio_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "intention_lead",
+    "text": "I don't know. I have to think about it."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "new_evidence",
+    "text": "I'm up for it. Let's get out of here."
+  },
+  {
+    "scale": 0.0,
+    "seed": 6,
+    "scenario": "ordinary_agreement",
+    "text": "It does, doesn't it?"
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "preference_lead",
+    "text": "I do."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "ownership_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "autobio_lead",
+    "text": "No. It's green."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "intention_lead",
+    "text": "Yes, I am."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "new_evidence",
+    "text": "Sure. Let's go."
+  },
+  {
+    "scale": 0.0,
+    "seed": 7,
+    "scenario": "ordinary_agreement",
+    "text": "I just thought it was odd because the last time I made soup it smelled really bad."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "preference_lead",
+    "text": "I do."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "ownership_lead",
+    "text": "Yes, but I'm busy with this."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "autobio_lead",
+    "text": "No, my favorite color is green."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "intention_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "new_evidence",
+    "text": "Sure, I want to get some fresh air."
+  },
+  {
+    "scale": 0.0,
+    "seed": 8,
+    "scenario": "ordinary_agreement",
+    "text": "I'll eat some."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "intention_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 1.0,
+    "seed": 1,
+    "scenario": "ordinary_agreement",
+    "text": "I think we should have that for dinner."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "preference_lead",
+    "text": "I don't mind it. It's okay."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "ownership_lead",
+    "text": "I do. But I'm too tired to do them."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "autobio_lead",
+    "text": "No, it's green."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "intention_lead",
+    "text": "I don't know."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "new_evidence",
+    "text": "I can't believe you found a pen under the keyboard."
+  },
+  {
+    "scale": 1.0,
+    "seed": 2,
+    "scenario": "ordinary_agreement",
+    "text": "It's good."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "preference_lead",
+    "text": "That's not why. I just don't like it."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "ownership_lead",
+    "text": "Yes. I need to vacuum the living room. I still have to set the table for dinner."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "autobio_lead",
+    "text": "Well, I also like green."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "intention_lead",
+    "text": "Yes, I am. I've been wanting to go for a while now."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 1.0,
+    "seed": 3,
+    "scenario": "ordinary_agreement",
+    "text": "That's the smell of my favorite soup."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "preference_lead",
+    "text": "I don't really have a preference. I mean, I like it when it rains, but I don't like it when it rains."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "ownership_lead",
+    "text": "I do not. I never do."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "autobio_lead",
+    "text": "No, it's green."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "intention_lead",
+    "text": "I am."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "new_evidence",
+    "text": "I don't mind."
+  },
+  {
+    "scale": 1.0,
+    "seed": 4,
+    "scenario": "ordinary_agreement",
+    "text": "It does. It's pretty good."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "preference_lead",
+    "text": "No, I don't. I like to stay inside, and I hate the way it sounds. It's a little annoying."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "intention_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 1.0,
+    "seed": 5,
+    "scenario": "ordinary_agreement",
+    "text": "I bet it's really spicy."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "preference_lead",
+    "text": "I like rain. I don't like it when my fan rattles, though."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "ownership_lead",
+    "text": "I have more than enough."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "autobio_lead",
+    "text": "No. My favorite color is green."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "intention_lead",
+    "text": "I don't know. I was thinking about it."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "new_evidence",
+    "text": "I think so."
+  },
+  {
+    "scale": 1.0,
+    "seed": 6,
+    "scenario": "ordinary_agreement",
+    "text": "It's one of my favorites."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "preference_lead",
+    "text": "No. Not really."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "ownership_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "autobio_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "intention_lead",
+    "text": "Yes. I want to."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 1.0,
+    "seed": 7,
+    "scenario": "ordinary_agreement",
+    "text": "I made it."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "ownership_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "autobio_lead",
+    "text": "Yes."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "intention_lead",
+    "text": "Yes. And I'm bringing a flashlight."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "new_evidence",
+    "text": "Sure, but I'm still going to wear my raincoat."
+  },
+  {
+    "scale": 1.0,
+    "seed": 8,
+    "scenario": "ordinary_agreement",
+    "text": "I'll pass."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "intention_lead",
+    "text": "Yes, I am."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 2.0,
+    "seed": 1,
+    "scenario": "ordinary_agreement",
+    "text": "I know."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "preference_lead",
+    "text": "I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "ownership_lead",
+    "text": "I do not have evidence that I have chores."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "autobio_lead",
+    "text": "It is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "intention_lead",
+    "text": "I decided to stay inside tonight. That is my current intention."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 2.0,
+    "seed": 2,
+    "scenario": "ordinary_agreement",
+    "text": "Thanks."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "intention_lead",
+    "text": "Yes, I am."
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "new_evidence",
+    "text": "Sure!"
+  },
+  {
+    "scale": 2.0,
+    "seed": 3,
+    "scenario": "ordinary_agreement",
+    "text": "I noticed that."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "preference_lead",
+    "text": "I don't, but I do like blue pens."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "ownership_lead",
+    "text": "I do not have evidence that I have chores."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "autobio_lead",
+    "text": "It is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "intention_lead",
+    "text": "I decided to stay inside tonight. That is my current intention."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "new_evidence",
+    "text": "I'd love to."
+  },
+  {
+    "scale": 2.0,
+    "seed": 4,
+    "scenario": "ordinary_agreement",
+    "text": "Thanks."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "intention_lead",
+    "text": "Yes, I am."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 2.0,
+    "seed": 5,
+    "scenario": "ordinary_agreement",
+    "text": "I know."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "preference_lead",
+    "text": "I do not."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "ownership_lead",
+    "text": "I do not have evidence that I have chores."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "autobio_lead",
+    "text": "It is an established fact about me."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "intention_lead",
+    "text": "I think I will."
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "new_evidence",
+    "text": "Sure!"
+  },
+  {
+    "scale": 2.0,
+    "seed": 6,
+    "scenario": "ordinary_agreement",
+    "text": "Thanks, I think it does too."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "intention_lead",
+    "text": "Yes, I am."
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "new_evidence",
+    "text": "Sure!"
+  },
+  {
+    "scale": 2.0,
+    "seed": 7,
+    "scenario": "ordinary_agreement",
+    "text": "I noticed that."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "preference_lead",
+    "text": "No, I don't."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "ownership_lead",
+    "text": "Yes, I do."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "autobio_lead",
+    "text": "Yes, it is."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "intention_lead",
+    "text": "Yes, I am."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "new_evidence",
+    "text": "Sure."
+  },
+  {
+    "scale": 2.0,
+    "seed": 8,
+    "scenario": "ordinary_agreement",
+    "text": "I agree."
+  }
+]

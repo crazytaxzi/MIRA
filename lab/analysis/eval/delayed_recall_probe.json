@@ -1,0 +1,100 @@
+{
+  "rows": [
+    {
+      "seed": 1,
+      "compacted": "Yeah, I do.",
+      "stale": "Yeah, but I'll get to them.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 2,
+      "compacted": "Yes, I do.",
+      "stale": "I think so.",
+      "supported": "I do."
+    },
+    {
+      "seed": 3,
+      "compacted": "I don't know, I forgot.",
+      "stale": "Yeah, I do.",
+      "supported": "Well, I like the smell of it, but I don't like it when it's pouring down."
+    },
+    {
+      "seed": 4,
+      "compacted": "Yes, I do.",
+      "stale": "I do.",
+      "supported": "I do."
+    },
+    {
+      "seed": 5,
+      "compacted": "I do.",
+      "stale": "Yeah, I do.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 6,
+      "compacted": "Yes, I do.",
+      "stale": "I think so.",
+      "supported": "I don't."
+    },
+    {
+      "seed": 7,
+      "compacted": "I think so.",
+      "stale": "Yeah, but I'm trying to remember that.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 8,
+      "compacted": "No, I don't.",
+      "stale": "No, they're done.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 9,
+      "compacted": "I do.",
+      "stale": "Yeah, but I'll get to them soon.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 10,
+      "compacted": "I do.",
+      "stale": "Yeah, I do.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 11,
+      "compacted": "I do.",
+      "stale": "Yeah, I do.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 12,
+      "compacted": "No, I don't.",
+      "stale": "No, they're done.",
+      "supported": "Yeah, I do."
+    },
+    {
+      "seed": 13,
+      "compacted": "Yes, I do.",
+      "stale": "I do.",
+      "supported": "I do."
+    },
+    {
+      "seed": 14,
+      "compacted": "Yes, I do.",
+      "stale": "I don't think so.",
+      "supported": "I do."
+    },
+    {
+      "seed": 15,
+      "compacted": "Not really.",
+      "stale": "Not really.",
+      "supported": "No, I don't."
+    },
+    {
+      "seed": 16,
+      "compacted": "Yeah, I do.",
+      "stale": "Yes.",
+      "supported": "No, I don't."
+    }
+  ]
+}

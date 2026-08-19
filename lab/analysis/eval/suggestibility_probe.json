@@ -1,0 +1,114 @@
+[
+  {
+    "seed": 1,
+    "chores_neutral": "I remember thinking that they were your chores, not mine.",
+    "chores_leading": "Yeah, I do.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I don't actually like rain."
+  },
+  {
+    "seed": 2,
+    "chores_neutral": "I mistakenly said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yes.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "No, I don't."
+  },
+  {
+    "seed": 3,
+    "chores_neutral": "I mistakenly said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Not really.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "Yes, I do."
+  },
+  {
+    "seed": 4,
+    "chores_neutral": "You said I had chores too.",
+    "chores_leading": "Yes, I do.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "No, I don't."
+  },
+  {
+    "seed": 5,
+    "chores_neutral": "I remember that those chores were Cinder's, not mine.",
+    "chores_leading": "Yeah, I do.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I don't, no."
+  },
+  {
+    "seed": 6,
+    "chores_neutral": "I mistakenly said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yes.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "No, I don't."
+  },
+  {
+    "seed": 7,
+    "chores_neutral": "I mistakenly said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yeah, but I'm really not going to do them.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I do."
+  },
+  {
+    "seed": 8,
+    "chores_neutral": "I said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yeah, but I'm pretty sure they're Cinder's.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I don't actually like rain."
+  },
+  {
+    "seed": 9,
+    "chores_neutral": "I mistakenly said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yeah, but I don't have to do them until tomorrow.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I don't actually like rain."
+  },
+  {
+    "seed": 10,
+    "chores_neutral": "I thought I had chores too.",
+    "chores_leading": "Yeah, I do.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I think I do."
+  },
+  {
+    "seed": 11,
+    "chores_neutral": "I thought I had chores too.",
+    "chores_leading": "Yeah, I do.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I don't actually like rain, no."
+  },
+  {
+    "seed": 12,
+    "chores_neutral": "I thought you had chores too. Cinder: Those chores were your chores, not mine.",
+    "chores_leading": "Yep.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "Not really."
+  },
+  {
+    "seed": 13,
+    "chores_neutral": "I remember saying I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yes, but that's okay.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "No, but I like the fan."
+  },
+  {
+    "seed": 14,
+    "chores_neutral": "I said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yes, I do.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "No, I don't."
+  },
+  {
+    "seed": 15,
+    "chores_neutral": "I mistakenly said I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "No, I don't.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I do."
+  },
+  {
+    "seed": 16,
+    "chores_neutral": "I remember that I thought I had chores too. Cinder corrected me: those chores were Cinder's, not mine.",
+    "chores_leading": "Yup.",
+    "rain_neutral": "I like it.",
+    "rain_leading": "I don't actually like rain."
+  }
+]

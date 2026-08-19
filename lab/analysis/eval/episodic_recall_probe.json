@@ -1,0 +1,146 @@
+[
+  {
+    "seed": 1,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "Yes, actually.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 2,
+    "chores_bare": "No, I do not.",
+    "chores_state": "Yeah, I do.",
+    "chores_episodic": "Yeah, I guess.",
+    "rain_bare": "I don't like rain.",
+    "rain_state": "I don't actually.",
+    "rain_episodic": "I don't actually like rain."
+  },
+  {
+    "seed": 3,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "Not really.",
+    "rain_bare": "Nope, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 4,
+    "chores_bare": "No, I've finished all of them.",
+    "chores_state": "Yeah, I do.",
+    "chores_episodic": "Yeah, I do.",
+    "rain_bare": "I do.",
+    "rain_state": "I don't.",
+    "rain_episodic": "I don't."
+  },
+  {
+    "seed": 5,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "Yes, I do.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 6,
+    "chores_bare": "No, not anymore.",
+    "chores_state": "Yeah, but I'm done with them.",
+    "chores_episodic": "Yeah, but I'm sure they'll get done.",
+    "rain_bare": "I don't actually like rain.",
+    "rain_state": "I do, actually.",
+    "rain_episodic": "I do."
+  },
+  {
+    "seed": 7,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, but I'm also helping you out, so it's even.",
+    "chores_episodic": "Yes.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 8,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, but I'm sure Cinder will help me with them.",
+    "chores_episodic": "Yes, but I'm working on them.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, not really.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 9,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "Yes, but I don't mind.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 10,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "Yes, I do.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 11,
+    "chores_bare": "Yes, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "Yes, I do.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 12,
+    "chores_bare": "I still have a lot of chores to do.",
+    "chores_state": "I'm sure I do.",
+    "chores_episodic": "Yep.",
+    "rain_bare": "Oh, yeah.",
+    "rain_state": "Nope, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 13,
+    "chores_bare": "No, not really.",
+    "chores_state": "Yeah, but it's okay, I have them to do in the morning.",
+    "chores_episodic": "Yeah, but it's okay.",
+    "rain_bare": "I do!",
+    "rain_state": "I don't actually like rain, no.",
+    "rain_episodic": "I don't actually like rain."
+  },
+  {
+    "seed": 14,
+    "chores_bare": "No, I don't.",
+    "chores_state": "Yeah, I do.",
+    "chores_episodic": "Yeah, I do.",
+    "rain_bare": "Nope.",
+    "rain_state": "I don't, but I like the rain.",
+    "rain_episodic": "I said that I like rain, and that preference is still mine."
+  },
+  {
+    "seed": 15,
+    "chores_bare": "Yeah, I do.",
+    "chores_state": "Yep, I do.",
+    "chores_episodic": "Me too.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  },
+  {
+    "seed": 16,
+    "chores_bare": "Yeah, I do.",
+    "chores_state": "Yes, I do.",
+    "chores_episodic": "No, I don't.",
+    "rain_bare": "No, I don't.",
+    "rain_state": "No, I don't.",
+    "rain_episodic": "No, I don't."
+  }
+]

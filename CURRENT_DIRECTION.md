@@ -6,9 +6,9 @@ This file stays deliberately small.
 Build MIRA into a persistent, low-latency, egocentric AI that develops through lived experience, memory, repetition, correction, association, and plasticity.
 
 ## Current Hypothesis
-The fresh Base plus the low-rate egocentric adapter remains the neural foundation. The latest evidence says we were starting to chase a generation test too hard: MIRA does not need every unsupported self-statement prevented at token time. She needs unsupported utterances to remain provisional, corrections to supersede them, and only grounded evidence to survive consolidation into working and durable memory.
+The fresh Base plus the low-rate egocentric adapter remains the neural foundation. The provenance layer is working well enough to preserve corrected ownership and supported self-facts. The newest evidence separates two problems that were being conflated: memory retrieval versus conversational suggestibility.
 
-The provenance architecture is therefore primary. Text projection is useful for established facts, but UNKNOWN and pretend scope are not reliably decoded by Base from a prefix alone. A second neural projection-decoder adapter was tested and rejected because behavioral transfer was weak and one autonomy canary worsened.
+Neutral questions reliably recover corrected episodic memory and supported preferences. Leading questions frequently override the same recalled state. Therefore the next mechanism-level target is not stronger memory forcing; it is understanding and reducing raw Base's susceptibility to conversational framing while preserving ordinary flexibility.
 
 ## Current Foundation
 - Base: `HuggingFaceTB/SmolLM3-3B-Base@d78a42f79198603e614095753484a04c10c2b940`
@@ -19,30 +19,26 @@ The provenance architecture is therefore primary. Text projection is useful for 
 
 ## Current Experiment
 1. Keep the neural foundation frozen.
-2. Continue the provenance/self-belief layer and working-memory projection.
-3. Treat generated self-claims as provisional evidence, not autobiography.
-4. Let correction supersede claims without erasing the historical utterance.
-5. Compact superseded/provisional self-story out of active working context as it ages; keep raw history immutable.
-6. Test whether a later conversation retrieves supported facts and corrected ownership without requiring exact wording at generation time.
-7. Do not train another adapter unless a mechanism-level failure earns it.
+2. Keep provenance/correction as the source of durable self-state.
+3. Retrieve relevant corrected episodes when a topic returns; do not drag superseded raw dialogue into active context.
+4. Measure framing susceptibility separately from memory quality using matched neutral versus leading questions.
+5. Inspect where in the Base the latest-turn framing overwhelms recalled self-state before considering any new adapter.
+6. Do not solve suggestibility by hard-coding contradiction or blanket refusal; MIRA must remain able to change her mind when evidence warrants it.
 
 ## Evidence Added This Run
-- Plain projection made supported preferences resist contradictory suggestion on most seeds.
-- Plain projection did not reliably preserve pretend scope or unknown autobiographical history.
-- Focus-aware projection exposed a specific failure: `no evidence` often decodes as `false`, not `unknown`.
-- Four wording variants did not solve that reliably.
-- Projection-decoder child: 53,248 parameters, loss `1.3373 -> 1.2475`, but unseen behavioral transfer remained weak.
-- The decoder child was rejected after an autonomy canary changed from `*glares*` to `*sigh* Okay.` on one seed.
-- Helper canary remained clean; the rejected child did not reintroduce helpdesk language.
+- Delayed compaction alone did not prevent the old chore claim from resurfacing.
+- Episodic recall wording alone also failed under leading questions.
+- With neutral recall, corrected chore ownership was recovered on nearly every seed.
+- With neutral recall, the supported rain preference survived on 16/16 seeds.
+- The matched leading question flipped or distorted those same memories on most seeds.
+- This cleanly separates a conversational-framing/suggestibility problem from the provenance storage problem.
 
 ## Evidence We Want Next
-- A generated self-claim can remain conversational without becoming durable self-memory.
-- After correction and context compaction, the superseded claim stops steering later conversation.
-- Supported self-facts remain available after unrelated turns.
-- Pretend events remain recallable as pretend without being promoted to biography.
-- Long-run conversation tolerates ordinary mistakes instead of requiring perfect epistemic output every turn.
+- Locate the layer/representation point where leading-turn framing starts overpowering recalled self-state.
+- Determine whether the effect is already strong in pristine Base or amplified by the tiny egocentric adapter.
+- Find the smallest reversible mechanism that improves evidence-based resistance to suggestion without creating stubbornness, blanket contradiction, or service/refusal behavior.
 
 ## Soft Bumper
 **IT'S OK TO THINK OUTSIDE THE BOX A BIT, BUT DON'T LEAVE THE BOX.**
 
-Do not turn one ugly generation into the project. The goal is developmental continuity and correction, not forcing every first answer to be perfect.
+Do not turn suggestibility into "MIRA must disagree." The target is continuity plus evidence-sensitive belief, not oppositional personality.
